@@ -1,0 +1,19 @@
+{
+  "status": "missing",
+  "note": "No final frames yet — the hero renders the procedural development scene. Run `npm run sequence:build -- <video>` (see ASSETS.md) to generate frames and flip this to \"ready\".",
+  "focal": { "x": 0.5, "y": 0.5 },
+  "desktop": {
+    "frameCount": 240,
+    "pattern": "sequence/desktop/frame_{index}.webp",
+    "pad": 4,
+    "width": 1920,
+    "height": 1080
+  },
+  "mobile": {
+    "frameCount": 120,
+    "pattern": "sequence/mobile/frame_{index}.webp",
+    "pad": 4,
+    "width": 900,
+    "height": 1600
+  }
+}

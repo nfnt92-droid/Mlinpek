@@ -1,0 +1,560 @@
+{
+  "manifest-grain": {
+    "credit": "Tymur Khakimov / Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/person-holding-brown-dried-wheat-on-his-hands-6412600/",
+    "photographer": "Tymur Khakimov",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 6412600
+  },
+  "flour-t400": {
+    "credit": "Tara Winstead / Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/close-up-shot-of-white-powder-7110136/",
+    "photographer": "Tara Winstead",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 7110136
+  },
+  "flour-t500": {
+    "credit": "Tara Winstead / Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/powder-flour-on-white-ceramic-bowl-7110082/",
+    "photographer": "Tara Winstead",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 7110082
+  },
+  "flour-t850": {
+    "credit": "diosix / Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/flour-on-wooden-chopping-board-11726089/",
+    "photographer": "diosix",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 11726089
+  },
+  "flour-integralno": {
+    "credit": "Kaboompics / Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/powder-in-close-up-4964102/",
+    "photographer": "Kaboompics",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 4964102
+  },
+  "quality-crust": {
+    "credit": "Natalia Olivera / Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/close-up-of-freshly-baked-bread-crust-texture-30666754/",
+    "photographer": "Natalia Olivera",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 30666754
+  },
+  "deco-loaf": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
+  },
+  "deco-assortment": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
+  },
+  "deco-basket-light": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
+  },
+  "deco-basket": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
+  },
+  "deco-croissants": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
+  },
+  "p-integralni-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Katalog proizvoda Mlinpek d.d. (2022)",
+    "license": "Materijal naručitelja"
+  },
+  "p-domaci-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Katalog proizvoda Mlinpek d.d. (2022)",
+    "license": "Materijal naručitelja"
+  },
+  "p-kukuruzna-kiflica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Katalog proizvoda Mlinpek d.d. (2022)",
+    "license": "Materijal naručitelja"
+  },
+  "p-gladijator": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Katalog proizvoda Mlinpek d.d. (2022)",
+    "license": "Materijal naručitelja"
+  },
+  "p-royal-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Katalog proizvoda Mlinpek d.d. (2022)",
+    "license": "Materijal naručitelja"
+  },
+  "p-bijeli-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli, 500g-2, DZ i svježe.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-polubijeli-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Polubijeli 400g, 3, Katalog, Svježe.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-polubijeli-rezani-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Polubijeli 600g, Narezan, Svježe, IG i FB 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-bakin-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bakin kruh, 500g-1, Katalog, Svježe.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-razev-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Ražev kruh, 500g, Svježe, Narezano, IG i FB 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-razev-kruh-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Ražev kruh, 500g, Svježe, Narezano, IG i FB.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kukuruzni-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzni kruh, 500g, Svježe, IG i FB.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-mijesani-kruh-sa-sjemenkama-bundeve": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Miješani kruh sa sjemenkama bundeve, 500g, Svježe, Katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-vital-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Vital kruh, 500g, Svježe, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-bijeli-tost": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli tost, 450g, Svježe, IG i FB 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-bijeli-baguette": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli baguette, 250g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-bijeli-baguette-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli baguette, 250g, Svježe, katalog 5.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kukuruzni-baguette": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzni baguette, 250g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kukuruzni-baguette-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzni baguette, 250g, Svježe, FB i IG 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-tamni-baguette": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Tamni baguette, 250g, DZ, Katalog 1.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-tamni-baguette-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Tamni baguette, 250g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-mlinpek-mix": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Mlinpek mix 400gr, DZ,Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-mlinpek-mix-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Mlinpek mix 400gr, DZ,Katalog 4.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-heljdin-kruh": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Heljdin kruh 400 gr,DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kajzerica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kajzerica, 360g, 6-1, Svježe i DZ, IG i FB.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kajzerica-sa-sjemenkama": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kajzerica sa sjemenkama, 240g, 4-1, Svježe, IG i FB.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-integralna-kajzerica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Integralna kajzerica 6-1, 360 g, Svježe, katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-chia-kajzerica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Chia kajzerica 60gr,DZ,katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-slana-kifla": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Slano pecivo-2 Kifla, 70g, Katalog, DZ i Svježe.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-integralna-kifla": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Integralna kifla 2, 70g, Svježe i DZ, katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kifla-kopriva": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kifka kopriva, 50 gr, DZ, katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-pletenica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Pletenica 130 g, Svježe, katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-zvijezda": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvijezda 7-1, 400g, Svježe, IG i FB.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-ciabatta": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Ciabatta 250g, Svježe, katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-lepina": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lepina, 200g, Svježe, katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-hamburger-pecivo": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Hamburger pecivo, 250 g, Zoka.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-bavarsko-pecivo": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bavarsko pecivo za sendvić.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-domaca-kiflica-sa-sirom": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Domaća kiflica sa sirom, 30g, DZ, katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kifla-sir-i-sunka": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kifla sir i šunka 80gr, DZ,Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kukuruzno-lisnato-sa-sirom": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzno lisnato sa sirom, 80g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-lisnato-sa-hrenovkom": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato sa hrenovkom, 100g, DZ, Katalog 4.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-pizza": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Pizza 150 gr, DZ, katalog 1.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-kroasan-kakao": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kakao kroasan, 80g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-premium-kroasan-cokolada-sa-maslacem": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Premium kroasan čokolada sa maslacem80g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-premium-kroasan-vanilija-sa-maslacem": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Premium kroasan vanilija sa maslacem80g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-lisnato-chia-jogurt-borovnica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato chia-jogurt-borovnica, 90g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-lisnato-kakao-vanilija-malina": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato kakao-vanilija-malina, 90g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-lisnato-visnja": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato višnja, 80g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-lisnato-jabuka-cimet": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato jabuka-cimet, 80g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-puz-mak": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Puž mak, 100g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-krofna-cokolada": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna Čokolada, 80g, Svježe i DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-krofna-marmelada": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna marmelada, 80g, Svježe i DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-krofna-bijeli-preljev": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna bijeli preljev 80 gr. DZ,katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-krofna-tamni-preljev": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna tamni preljev 80 gr, DZ, katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-donuts-bijela-cokolada": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Dounats bijela čokolada 50 gr, DZ, katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-donuts-tamna-cokolada": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Dounats 50gr tamna čokolada ,DZ katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-cokoladni-muffin": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Čokoladni muffin 90 gr, DZ,Katalog 1.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-cokoladni-muffin-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Čokoladni muffin 90 gr,DZ, katalog 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-zlatni-muffin": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zlatni muffin 90gr,DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-zvrk-sa-sirom": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa sirom, 150g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-zvrk-sa-mesom": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa mesom, 150g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-zvrk-sa-krompirom": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa krompirom, 150g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-zvrk-sa-zeljem": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa zeljem, 150g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-pita-od-jabuka": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Pita od jabuka, 150g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-burek": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Burek kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-sirnica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Sirnica kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-zeljanica": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zeljanica kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-krompirusa": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krompir kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
+  },
+  "p-piletina": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Piletina kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
+  },
+  "store-mlinpek-1": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 17. 11. 2026: Pekara (2).jpg",
+    "license": "Materijal naručitelja"
+  },
+  "store-mlinpek-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 17. 11. 2026: Pekara (3).jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-line-mlinpek": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodnja 1.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-hall-mlinpek": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodnja 4.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "sandwich-1": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodi (140).jpg",
+    "license": "Materijal naručitelja"
+  },
+  "sandwich-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodi (141).jpg",
+    "license": "Materijal naručitelja"
+  },
+  "flour-550-1kg": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
+  },
+  "flour-550-2kg": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
+  },
+  "flour-550-5kg": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
+  },
+  "flour-banner-550": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
+  },
+  "deco-flour-bowl": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
+  }
+}

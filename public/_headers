@@ -1,0 +1,11 @@
+# Cloudflare Pages headers.
+# Hero frames carry ?v=<manifest.version> and Next's static files are content-hashed: cache hard.
+# The manifest and posters keep the default (revalidated) caching.
+/sequence/desktop/*
+  Cache-Control: public, max-age=31536000, immutable
+/sequence/mobile/*
+  Cache-Control: public, max-age=31536000, immutable
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/photos/*
+  Cache-Control: public, max-age=2592000

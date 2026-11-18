@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+# raw source footage stays out of git; only exported frames are committed
+source-footage/
+
+# original photographs (processed into public/photos)
+photo-sources/*
+!photo-sources/README.md
+!photo-sources/credits.json

@@ -1,0 +1,12 @@
+# Cloudflare Pages: routes merged in the simplified site (permanent). Query strings pass through.
+# (Small forwarding pages also exist at these paths, for hosts without redirect rules.)
+/nas-mlin/              /o-nama/#mlin           301
+/nas-mlin               /o-nama/#mlin           301
+/pekarska-proizvodnja/  /o-nama/#proizvodnja    301
+/pekarska-proizvodnja   /o-nama/#proizvodnja    301
+/brasna/*               /proizvodi/#brasno      301
+/brasna                 /proizvodi/#brasno      301
+/pekarski-proizvodi/    /proizvodi/#pekarski    301
+/pekarski-proizvodi     /proizvodi/#pekarski    301
+/suradnja/              /kontakt/#upit          301
+/suradnja               /kontakt/#upit          301
