@@ -154,7 +154,11 @@ function ScrubbedHero() {
       activeRef.current = idx;
       setActive(idx);
     }
-    if (cueRef.current) cueRef.current.style.opacity = String(1 - clamp01(p / 0.03));
+    if (cueRef.current) {
+      const c = 1 - clamp01(p / 0.03);
+      cueRef.current.style.opacity = c.toFixed(3);
+      cueRef.current.style.visibility = c < 0.02 ? "hidden" : "visible";
+    }
     if (barRef.current) barRef.current.style.transform = `scaleX(${p.toFixed(4)})`;
     sectionRef.current?.setAttribute("data-progress", p.toFixed(3));
   }, []);
@@ -353,13 +357,27 @@ function ScrubbedHero() {
           <div ref={barRef} className="h-full origin-left scale-x-0 bg-wheat/70" />
         </div>
 
-        <div
-          ref={cueRef}
-          aria-hidden="true"
-          className="pointer-events-none absolute bottom-8 right-6 hidden items-center sm:flex gap-3 text-[11px] uppercase tracking-[0.28em] text-ivory/55 sm:right-10 lg:right-16"
-        >
-          <span>Pomaknite prema dolje</span>
-          <span className="scroll-cue-line block h-10 w-px bg-ivory/30" />
+        {/* start cue: says plainly how the film plays (scroll / swipe); a click starts it too.
+            Sits under the headline block, centred; fades out as soon as the film moves. */}
+        <div ref={cueRef} className="hero-cue absolute inset-x-0 flex justify-center px-6">
+          <button
+            type="button"
+            onClick={() => scrollToChapter(1)}
+            className="group pointer-events-auto flex items-center gap-4 rounded-full border border-wheat/55 bg-ink/45 py-2.5 pl-3 pr-6 text-left text-ivory shadow-[0_8px_30px_-10px_rgba(0,0,0,0.6)] backdrop-blur-md transition-colors hover:border-wheat hover:bg-ink/65"
+          >
+            <span aria-hidden="true" className="cue-pulse relative flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-wheat/15">
+              {/* mouse on pointer devices, finger swipe on touch */}
+              <span className="cue-mouse relative block h-[22px] w-[14px] rounded-full border border-ivory/80 [@media(hover:none)]:hidden">
+                <span className="cue-wheel absolute left-1/2 top-[4px] h-[5px] w-px -translate-x-1/2 bg-wheat" />
+              </span>
+              <span className="cue-swipe hidden text-[18px] leading-none text-wheat [@media(hover:none)]:block">↑</span>
+            </span>
+            <span className="flex flex-col">
+              <span className="text-[12px] font-medium uppercase tracking-[0.22em] text-wheat">Pokrenite priču</span>
+              <span className="mt-0.5 text-[13px] text-ivory/80 [@media(hover:none)]:hidden">Pomaknite stranicu prema dolje</span>
+              <span className="mt-0.5 hidden text-[13px] text-ivory/80 [@media(hover:none)]:block">Povucite prstom prema gore</span>
+            </span>
+          </button>
         </div>
 
         <SourceStatus mode={ui.mode} failure={ui.failure} progress={ui.progress} />

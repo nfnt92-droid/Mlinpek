@@ -57,7 +57,11 @@ export default function ZaposljavanjePage() {
                   PDF za ispis <span aria-hidden="true">↗</span>
                 </a>
               </div>
-              <p className="mt-10 max-w-[34ch] text-sm leading-relaxed text-charcoal/55">
+              <p className="mt-10 max-w-[34ch] text-sm leading-relaxed text-charcoal/65">
+                Prijava poslana putem weba stiže upravi i pravnoj službi (
+                <a href="mailto:pravna.sluzba@mlinpek.ba" className="underline decoration-wheat-deep underline-offset-4">pravna.sluzba@mlinpek.ba</a>).
+              </p>
+              <p className="mt-4 max-w-[34ch] text-sm leading-relaxed text-charcoal/55">
                 Podatke iz prijave obrađujemo isključivo u svrhu selekcije i zapošljavanja, u skladu sa Zakonom o zaštiti ličnih podataka.
               </p>
             </div>

@@ -3,6 +3,7 @@ import { PhotoBand } from "@/components/ui/PhotoBand";
 import { ArrowLink, Eyebrow, FactsLedger } from "@/components/ui/Editorial";
 import { Photo } from "@/components/ui/Photo";
 import type { PhotoId } from "@/content/photos";
+import { MillIllustration } from "@/components/ui/Illustrations";
 import { BAKERY_FACTS, CERTIFICATIONS, MILESTONES, MILL_FACTS } from "@/content/site";
 
 export const metadata = pageMeta(
@@ -132,7 +133,7 @@ export default function ONamaPage() {
 
       <Section tone="ivory" labelledBy="mlin-title">
         <div className="space-y-24 md:space-y-36">
-          <Chapter id="mlin" label="Naš mlin" title="Brašno koje sami meljemo." photo="deco-flour-bowl" facts={MILL_FACTS}>
+          <Chapter id="mlin" label="Naš mlin" title="Brašno koje sami meljemo." photo="mill-painting" facts={MILL_FACTS}>
             <p>
               Zrno se prije mljevenja čisti i provjerava, a mljevenje se vodi kontrolirano, serija za serijom. Tako nastaje brašno
               ujednačene kvalitete — isto ono koje koriste naši pekari.
@@ -145,9 +146,47 @@ export default function ONamaPage() {
             </p>
           </Chapter>
         </div>
+
+        {/* the plant, first-hand — the client's own photographs */}
+        <div className="mt-24 md:mt-36" aria-labelledby="pogon-title" role="region">
+          <div className="grid gap-8 md:grid-cols-12 md:items-end">
+            <div className="md:col-span-7">
+              <p className="label text-wheat-deep">Naš pogon</p>
+              <h2 id="pogon-title" className="subtitle mt-5" data-reveal>
+                Iz prve ruke: <span className="italic text-wheat-deep">gdje nastaje naš kruh.</span>
+              </h2>
+            </div>
+            <p className="measure leading-relaxed text-charcoal/70 md:col-span-4 md:col-start-9" data-reveal>
+              Miješalice, linije za oblikovanje tijesta i peći u našoj pekarskoj proizvodnji — i ljudi koji s njima rade
+              svakoga dana.
+            </p>
+          </div>
+          <ul className="mt-12 grid grid-cols-2 gap-2 sm:gap-3 md:mt-16 md:grid-cols-12">
+            {(
+              [
+                ["prod-hall-2", "col-span-2 aspect-[4/3] md:col-span-8 md:aspect-[16/10]"],
+                ["prod-racks", "aspect-[4/5] md:col-span-4 md:aspect-[4/5]"],
+                ["prod-rolls", "aspect-[4/5] md:col-span-4 md:aspect-square"],
+                ["prod-fortuna-line", "aspect-[4/5] md:col-span-4 md:aspect-square"],
+                ["prod-dough", "aspect-[4/5] md:col-span-4 md:aspect-square"],
+                ["prod-donuts", "aspect-[4/5] md:col-span-5 md:aspect-[4/5]"],
+                ["prod-kornfeil", "col-span-2 aspect-[4/3] md:col-span-7 md:aspect-[28/25]"],
+              ] as [PhotoId, string][]
+            ).map(([id, cls]) => (
+              <li key={id} className={`relative ${cls}`}>
+                <Photo id={id} fill sizes="(min-width: 768px) 60vw, 50vw" />
+              </li>
+            ))}
+          </ul>
+          <div aria-hidden="true" className="mt-16 flex justify-center overflow-hidden md:mt-24">
+            <MillIllustration className="w-[max(100%,760px)] max-w-[1100px] shrink-0 text-wheat-deep opacity-40" />
+          </div>
+        </div>
       </Section>
 
-      <PhotoBand id="deco-croissants" />
+      <PhotoBand id="prod-hall-3" align="left">
+        Nova tehnologija. Ista posvećenost.
+      </PhotoBand>
 
       <Section tone="paper" id="kvaliteta" labelledBy="kvaliteta-title">
         <div className="grid gap-12 md:grid-cols-12 md:items-end md:gap-8">
@@ -175,7 +214,7 @@ export default function ONamaPage() {
             </div>
           </div>
           <div className="md:col-span-5 md:col-start-8">
-            <Photo id="quality-crust" ratio="aspect-[4/5]" sizes="(min-width: 768px) 40vw, 100vw" reveal />
+            <Photo id="prod-rolls-2" ratio="aspect-[4/5]" sizes="(min-width: 768px) 40vw, 100vw" reveal />
           </div>
         </div>
       </Section>

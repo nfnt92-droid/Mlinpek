@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { PHOTOS, PROCESSED, type PhotoId } from "@/content/photos";
 import { categoryById, type BakeryItem } from "@/content/bakery";
+import { CATALOG_PDF, CATALOG_SPECS } from "@/content/catalogSpecs";
 
 /**
  * Product quick view: a centred window (bottom sheet on phones) with a larger photo and
@@ -17,6 +18,8 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
   const touch = useRef<{ x: number; y: number } | null>(null);
   const [photo, setPhoto] = useState(0);
   const [loaded, setLoaded] = useState(false);
+  // "spec": the product's KARAKTERISTIKE sheet from the printed catalogue instead of the photo
+  const [view, setView] = useState<"photo" | "spec">("photo");
   const n = items.length;
   const it = items[index];
   const go = useCallback((d: number) => onIndex((index + d + n) % n), [index, n, onIndex]);
@@ -35,9 +38,10 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
 
   useEffect(() => {
     setPhoto(0);
+    setView("photo");
     dialog.current?.querySelector("[data-scroll]")?.scrollTo(0, 0);
   }, [index]);
-  useEffect(() => setLoaded(false), [index, photo]);
+  useEffect(() => setLoaded(false), [index, photo, view]);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -66,6 +70,8 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
     const w = [...pp.widths].reverse().find((x) => x <= max) ?? pp.widths[0];
     return `/photos/${pid}/${w}.webp`;
   };
+  const spec = CATALOG_SPECS[it.name];
+  const showSpec = view === "spec" && !!spec;
   const prevItem = items[(index - 1 + n) % n];
   const nextItem = items[(index + 1) % n];
   // same product in another pack size → name the size instead of repeating the name
@@ -108,8 +114,20 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
             if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(e.changedTouches[0].clientY - t0.y)) go(dx < 0 ? 1 : -1);
           }}
         >
-          <div className="relative aspect-[4/3] w-full md:aspect-auto md:h-full md:min-h-[min(560px,80vh)]">
-            {p && (
+          <div className={`relative w-full md:aspect-auto ${showSpec ? "aspect-square" : "aspect-[4/3]"} md:h-full md:min-h-[min(560px,80vh)]`}>
+            {showSpec ? (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                key={`spec-${spec.slug}`}
+                src={`/katalog/${spec.slug}-1200.webp`}
+                srcSet={`/katalog/${spec.slug}-640.webp 640w, /katalog/${spec.slug}-1200.webp 1200w`}
+                sizes="(min-width: 768px) 640px, 100vw"
+                alt={`${it.name} — karakteristike iz kataloga proizvoda: sastojci, dimenzije, pakiranje i rok trajanja`}
+                onLoad={() => setLoaded(true)}
+                className={`absolute inset-0 h-full w-full bg-[#efe7d9] object-contain transition-opacity duration-300 ${loaded ? "opacity-100" : "opacity-0"}`}
+                draggable={false}
+              />
+            ) : p && (
               // eslint-disable-next-line @next/next/no-img-element
               <img
                 key={id}
@@ -123,11 +141,11 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
                 draggable={false}
               />
             )}
-            {p && !loaded && (
+            {p && !loaded && !showSpec && (
               <span aria-hidden="true" className="absolute inset-0" style={{ backgroundImage: `url(${p.blur})`, backgroundSize: "cover" }} />
             )}
           </div>
-          {n > 1 && (
+          {n > 1 && !showSpec && (
             <div className="pointer-events-none absolute inset-x-0 bottom-0 flex justify-between p-2 md:hidden">
               <button type="button" onClick={() => go(-1)} aria-label={`Prethodni proizvod: ${prevItem.name}`} className="pointer-events-auto flex h-11 w-11 items-center justify-center bg-paper/90 text-lg">
                 ←
@@ -146,6 +164,22 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
             <h2 id="qv-title" className="mt-3 pr-8 font-display text-[2rem] leading-[1.05] sm:text-[2.4rem]">
               {it.name}
             </h2>
+
+            {spec && (
+              <div className="mt-6 inline-flex border border-charcoal/20 text-[11px] uppercase tracking-[0.18em]" role="group" aria-label="Prikaz">
+                {(["photo", "spec"] as const).map((v) => (
+                  <button
+                    key={v}
+                    type="button"
+                    onClick={() => setView(v)}
+                    aria-pressed={view === v}
+                    className={`min-h-10 px-4 transition-colors ${view === v ? "bg-charcoal text-ivory" : "text-charcoal/70 hover:bg-linen"}`}
+                  >
+                    {v === "photo" ? "Fotografija" : "Karakteristike"}
+                  </button>
+                ))}
+              </div>
+            )}
 
             {(it.weight || it.availability?.length) && (
               <dl className={`mt-6 grid gap-px border-y border-charcoal/12 bg-charcoal/12 text-sm ${it.weight && it.availability?.length ? "grid-cols-2" : "grid-cols-1"}`}>
@@ -171,7 +205,7 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
               </p>
             </div>
 
-            {it.photos.length > 1 && (
+            {it.photos.length > 1 && !showSpec && (
               <div className="mt-6 flex gap-2" role="group" aria-label="Fotografije proizvoda">
                 {it.photos.map((pid, i) => (
                   <button
@@ -187,6 +221,16 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
                   </button>
                 ))}
               </div>
+            )}
+
+            {spec && (
+              <p className="mt-6 text-[13px] leading-relaxed text-charcoal/55">
+                Dimenzije, pakiranje, paletizacija i rok trajanja — u kartici „Karakteristike” i u{" "}
+                <a href={`${CATALOG_PDF}#page=${spec.page}`} target="_blank" rel="noopener" className="underline decoration-wheat-deep underline-offset-4 hover:text-charcoal">
+                  katalogu proizvoda (PDF), str. {spec.page}
+                </a>
+                .
+              </p>
             )}
 
             <div className="mt-8">

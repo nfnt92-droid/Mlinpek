@@ -2,6 +2,7 @@ import { PageHero, Section, pageMeta } from "@/components/shared/PageParts";
 import { ArrowLink, Eyebrow } from "@/components/ui/Editorial";
 import { InquiryForm } from "@/components/shared/InquiryForm";
 import { ALL_TYPES } from "@/content/inquiries";
+import { CareersSection } from "@/components/shared/CareersSection";
 
 export const metadata = pageMeta(
   "/kontakt/",
@@ -32,10 +33,9 @@ export default function KontaktPage() {
               Odaberite vrstu upita i proslijedit ćemo ga pravoj osobi. Adrese, telefoni i podaci o društvu nalaze se u podnožju stranice.
             </p>
             <div className="mt-12 border-t border-charcoal/15 pt-8">
-              <p className="label text-wheat-deep">Zapošljavanje</p>
-              <p className="mt-4 max-w-[32ch] text-sm leading-relaxed text-charcoal/65">Prijavu za posao popunite direktno na webu.</p>
-              <div className="mt-6">
-                <ArrowLink href="/zaposljavanje/">Prijava za posao</ArrowLink>
+              <p className="label text-wheat-deep">Tražite posao?</p>
+              <div className="mt-5">
+                <ArrowLink href="#zaposljavanje">Zapošljavanje</ArrowLink>
               </div>
             </div>
           </div>
@@ -49,6 +49,7 @@ export default function KontaktPage() {
         </div>
       </Section>
 
+      <CareersSection />
     </main>
   );
 }

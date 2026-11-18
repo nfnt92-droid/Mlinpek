@@ -2,6 +2,7 @@ import Link from "next/link";
 import { NAV, SITE } from "@/content/site";
 import { B2B_PATHWAYS } from "@/content/inquiries";
 import { Logo } from "@/components/ui/Logo";
+import { MillIllustration } from "@/components/ui/Illustrations";
 
 /**
  * Colophon with all company details: head office, legal department, business partners,
@@ -15,8 +16,11 @@ export function SiteFooter() {
   const link = "transition-colors hover:text-wheat";
 
   return (
-    <footer className="bg-ink text-ivory" aria-labelledby="footer-title">
-      <div className="wrap pb-10 pt-24 md:pt-32">
+    <footer className="relative overflow-hidden bg-ink text-ivory" aria-labelledby="footer-title">
+      <div aria-hidden="true" className="pointer-events-none absolute inset-x-0 bottom-16 flex justify-center">
+        <MillIllustration className="w-[max(100%,900px)] max-w-[1600px] shrink-0 text-wheat opacity-[0.07]" />
+      </div>
+      <div className="wrap relative pb-10 pt-24 md:pt-32">
         {/* brand + pages */}
         <div className="grid gap-12 md:grid-cols-12 md:gap-8">
           <div className="md:col-span-5">

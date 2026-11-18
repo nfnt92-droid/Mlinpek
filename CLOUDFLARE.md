@@ -39,7 +39,7 @@ Obrasci šalju podatke Cloudflare funkciji `functions/api/forma.ts`, koja ih pro
 | `RESEND_API_KEY` | `re_…` | tip **Secret** |
 | `FORM_FROM` | `Mlinpek web <web@mlinpek.ba>` | adresa na potvrđenoj domeni |
 | `FORM_TO` | `mlinpek@bih.net.ba` | primatelj upita; više adresa odvojite zarezom |
-| `FORM_TO_JOBS` | `pravna.sluzba@mlinpek.ba` | neobavezno: posebna adresa za prijave za posao |
+| `FORM_TO_JOBS` | `vas.mail@…` | adresa (ili više njih, odvojene zarezom) na koju stižu prijave za posao; bez nje se koristi `FORM_TO`. Prijave **uvijek** stižu i na `pravna.sluzba@mlinpek.ba` (ugrađeno u kod). |
 
 3. **Retry deployment** (ili novi push) da se varijable primijene. Pošaljite probni upit i probnu prijavu.
 

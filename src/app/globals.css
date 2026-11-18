@@ -70,11 +70,17 @@
   }
   /* headlines sit above the URL-bar zone on mobile (stage is 100lvh) */
   .hero-copy {
-    bottom: calc(100lvh - 100svh + 4.5rem);
+    bottom: calc(100lvh - 100svh + 6.25rem);
+  }
+  .hero-cue {
+    bottom: calc(100lvh - 100svh + 1.1rem);
   }
   @media (min-width: 768px) {
     .hero-copy {
-      bottom: 5.5rem;
+      bottom: 6.75rem;
+    }
+    .hero-cue {
+      bottom: 1.5rem;
     }
   }
   /* ── editorial type scale (site) ───────────────────────────── */
@@ -146,6 +152,14 @@
   100% { transform: scaleY(0); transform-origin: bottom; }
 }
 .scroll-cue-line { animation: cue 2.4s cubic-bezier(.6,0,.2,1) infinite; }
+
+/* hero start cue */
+@keyframes cue-wheel { 0% { opacity: 0; transform: translate(-50%, 0); } 30% { opacity: 1; } 80% { opacity: 0; transform: translate(-50%, 7px); } 100% { opacity: 0; } }
+@keyframes cue-swipe { 0%, 100% { transform: translateY(4px); opacity: .5; } 50% { transform: translateY(-4px); opacity: 1; } }
+@keyframes cue-pulse { 0% { box-shadow: 0 0 0 0 rgba(205,166,108,.45); } 70% { box-shadow: 0 0 0 14px rgba(205,166,108,0); } 100% { box-shadow: 0 0 0 0 rgba(205,166,108,0); } }
+.cue-wheel { animation: cue-wheel 1.8s ease-out infinite; }
+.cue-swipe { animation: cue-swipe 1.6s ease-in-out infinite; }
+.cue-pulse { animation: cue-pulse 2.2s ease-out infinite; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {

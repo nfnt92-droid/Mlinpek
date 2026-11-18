@@ -127,6 +127,25 @@ export const PHOTOS = {
   "sandwich-1": { brief: "Sendvič u svježem pecivu sa šunkom i zelenom salatom", alt: "Sendvič u svježem pecivu sa šunkom i zelenom salatom", tone: "crust", focal: [50, 50] },
   "sandwich-2": { brief: "Sendvič u pecivu sa šunkom, sirom i salatom", alt: "Sendvič u pecivu sa šunkom, sirom i salatom", tone: "crust", focal: [50, 50] },
 
+  // ── client folder "Mlinpek" (18. 11. 2026): 25 kg flour poster, mill painting, production, shops
+  "flour-500-25kg": { brief: "Plakat: Brašno pšenično bijelo tip 500, 25 kg — nova ambalaža", alt: "Mlinpek plakat: Novo ruho. Ista vrhunska kvaliteta. Brašno pšenično bijelo tip 500, vreća od 25 kg", tone: "flour", focal: [50, 50] },
+  "mill-painting": { brief: "Slika Mlinpekova mlina sa silosima (umjetnička slika)", alt: "Umjetnička slika Mlinpekova mlina u Bugojnu: visoki silosi s natpisom Mlinpek, okruženi zelenilom", tone: "linen", focal: [50, 50] },
+  "prod-tanks": { brief: "Proizvodnja: spremnici", alt: "Spremnici od nehrđajućeg čelika u Mlinpekovu pogonu", tone: "crust", focal: [50, 50] },
+  "prod-hall-2": { brief: "Proizvodna hala s miješalicama", alt: "Proizvodna hala Mlinpeka s miješalicama za tijesto", tone: "crust", focal: [50, 50] },
+  "prod-hall-3": { brief: "Proizvodna linija i hala", alt: "Mlinpekova proizvodna hala: linija za oblikovanje tijesta", tone: "crust", focal: [50, 50] },
+  "prod-ovens": { brief: "Hala s pećima i kolicima", alt: "Pekarska hala s kolicima za pečenje i pećima", tone: "crust", focal: [50, 50] },
+  "prod-racks": { brief: "Kolica i peći", alt: "Kolica s limovima ispred peći u Mlinpekovoj pekarskoj proizvodnji", tone: "crust", focal: [50, 50] },
+  "prod-kornfeil": { brief: "Linija za tijesto", alt: "Automatizirana linija za obradu tijesta u Mlinpekovu pogonu", tone: "crust", focal: [50, 50] },
+  "prod-fortuna": { brief: "Stroj za oblikovanje peciva", alt: "Upravljačka ploča stroja za oblikovanje peciva", tone: "crust", focal: [50, 50] },
+  "prod-fortuna-line": { brief: "Linija za peciva", alt: "Linija za oblikovanje peciva u Mlinpekovoj proizvodnji", tone: "crust", focal: [50, 50] },
+  "prod-rolls": { brief: "Pečene kajzerice", alt: "Tek pečene kajzerice na limu", tone: "crust", focal: [50, 50] },
+  "prod-rolls-2": { brief: "Kajzerice izbliza", alt: "Zlatne kajzerice iz peći, izbliza", tone: "crust", focal: [50, 50] },
+  "prod-dough": { brief: "Oblikovano tijesto za baguette", alt: "Oblikovano tijesto za baguette na polici prije pečenja", tone: "flour", focal: [50, 50] },
+  "prod-donuts": { brief: "Krofne", alt: "Krofne s preljevima i mrvicama u Mlinpekovoj pekari", tone: "crust", focal: [50, 50] },
+  "store-mlinpek-3": { brief: "Mlinpek pekara: vitrina i pult", alt: "Mlinpek pekara: vitrine s kruhom i pecivima, pult s logom", tone: "crust", focal: [50, 50] },
+  "store-mlinpek-4": { brief: "Mlinpek pekara: dugi pult", alt: "Mlinpek pekara: dugi pult s vitrinama i policama za kruh", tone: "crust", focal: [50, 50] },
+  "store-mlinpek-5": { brief: "Mlinpek pekara: pult i sjedenje", alt: "Mlinpek pekara: pult s logom, vitrine i mjesto za sjedenje", tone: "crust", focal: [50, 50] },
+
   // ── flour (client, 18. 11. 2026): new packaging T-550 + campaign banner + decorative bowl
   "flour-550-1kg": { brief: "Brašno pšenično bijelo tip 550, 1 kg", alt: "Mlinpek brašno pšenično bijelo tip 550, pakiranje 1 kg, na kuhinjskom stolu", tone: "flour", focal: [50, 50] },
   "flour-550-2kg": { brief: "Brašno pšenično bijelo tip 550, 2 kg", alt: "Mlinpek brašno pšenično bijelo tip 550, pakiranje 2 kg, na kuhinjskom stolu", tone: "flour", focal: [50, 50] },

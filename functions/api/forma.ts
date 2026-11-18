@@ -8,7 +8,9 @@
  *   RESEND_API_KEY  (secret)  API key from Resend
  *   FORM_FROM                 verified sender, e.g. "Mlinpek web <web@mlinpek.ba>"
  *   FORM_TO                   recipient(s), comma separated, e.g. "mlinpek@bih.net.ba"
- *   FORM_TO_JOBS   (optional) separate recipient(s) for job applications
+ *   FORM_TO_JOBS   (optional) recipient(s) for job applications, comma separated, e.g. the
+ *                             director's address; falls back to FORM_TO. Job applications ALWAYS also
+ *                             go to the legal department (JOBS_ALWAYS below, client brief 18. 11. 2026).
  *
  * Without RESEND_API_KEY / FORM_TO it answers 503 and the form shows an honest error.
  */
@@ -21,6 +23,9 @@ interface Env {
 }
 
 const FORMS = new Set(["kontakt", "prijava-posao"]);
+/** job applications are always copied to the legal department (Pravna služba) */
+const JOBS_ALWAYS = ["pravna.sluzba@mlinpek.ba"];
+const list = (v?: string) => (v ?? "").split(",").map((s) => s.trim()).filter(Boolean);
 const MAX_BODY = 40_000;
 const EMAIL = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
@@ -61,7 +66,9 @@ export async function onRequestPost({ request, env }: { request: Request; env: E
   if (data["bot-field"] || data.bot_field) return json(200, { ok: true });
 
   const isJob = form === "prijava-posao";
-  const to = (isJob && env.FORM_TO_JOBS ? env.FORM_TO_JOBS : env.FORM_TO ?? "").split(",").map((s) => s.trim()).filter(Boolean);
+  const to = isJob
+    ? [...new Set([...list(env.FORM_TO_JOBS || env.FORM_TO), ...JOBS_ALWAYS].map((a) => a.toLowerCase()))]
+    : list(env.FORM_TO);
   if (!env.RESEND_API_KEY || !env.FORM_FROM || to.length === 0) return json(503, { ok: false, error: "not_configured" });
 
   const who = data.ime_prezime || data.ime || "nepoznato";

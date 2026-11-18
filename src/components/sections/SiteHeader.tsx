@@ -66,7 +66,13 @@ export function SiteHeader() {
       <header className={`fixed inset-x-0 top-0 z-50 transition-[background-color,box-shadow] duration-500 ${bar}`}>
         <div className={`wrap flex items-center justify-between gap-4 transition-[padding] duration-500 ${mode === "solid" ? "py-2.5" : "py-4 md:py-5"}`}>
           <Link href="/" className="-my-1 block shrink-0" aria-label={`${SITE.brand} — naslovnica`}>
-            <Logo className={`transition-[width] duration-500 ${mode === "solid" ? "w-[76px] md:w-[88px]" : "w-[88px] md:w-[116px]"}`} priority />
+            <Logo
+              tone={light ? "gold" : "deep"}
+              className={`transition-[width] duration-500 ${
+                mode === "solid" ? "w-[88px] md:w-[108px]" : light ? "w-[118px] drop-shadow-[0_2px_10px_rgba(0,0,0,0.55)] md:w-[164px]" : "w-[108px] md:w-[148px]"
+              }`}
+              priority
+            />
           </Link>
           <nav aria-label="Glavna navigacija">
             <ul className="hidden items-center gap-8 lg:flex">
@@ -153,7 +159,7 @@ function MobileMenu({ open, onClose, isActive }: { open: boolean; onClose: () =>
       <div className="wrap flex min-h-full flex-col py-4">
         <div className="flex items-center justify-between">
           <Link href="/" onClick={onClose} aria-label={`${SITE.brand} — naslovnica`}>
-            <Logo className="w-[84px]" />
+            <Logo className="w-[104px]" />
           </Link>
           <button type="button" onClick={onClose} className="-mr-3 flex min-h-11 items-center gap-3 px-3 text-[12px] uppercase tracking-[0.22em]">
             Zatvori

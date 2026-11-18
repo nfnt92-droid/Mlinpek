@@ -112,4 +112,17 @@ export const FLOUR_ITEMS: BakeryItem[] = [
   { name: "Brašno pšenično bijelo tip 550", category: "brasno", weight: "5 kg", photos: ["flour-550-5kg"], description: FLOUR_550 },
 ];
 
+/**
+ * Lead flour product (client brief 18. 11. 2026: "lider proizvod u kategoriji brašna, 25 kg").
+ * Facts from the client's poster "PREMIUM PLAKAT 25 kg": type 500, 25 kg, new packaging, "bogato proteinima".
+ */
+export const FLOUR_LEAD: BakeryItem = {
+  name: "Brašno pšenično bijelo tip 500",
+  category: "brasno",
+  weight: "25 kg",
+  photos: ["flour-500-25kg"],
+  description:
+    "Naše brašno tip 500 u vreći od 25 kg, bogato proteinima — u novoj, čvršćoj ambalaži, za još bolje rezultate u svakoj pekarskoj i kulinarskoj priči.",
+};
+
 export const categoryById = (id: string) => BAKERY_CATEGORIES.find((c) => c.id === id);

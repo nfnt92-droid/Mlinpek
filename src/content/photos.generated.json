@@ -11,8 +11,8 @@
     "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA0APu1iqk2ppaQiMAgBMB2JYgCdMoADZ97n/EynGwMAAPr4HNwGWzY61LIE6LQThlBgPXBIE5wYDtb+++g8oZ8NGA9fparFDMLIcR4su31UoAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj (2026-11-11)",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
   },
   "deco-basket-light": {
     "w": 1672,
@@ -26,8 +26,8 @@
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoYAA0APu1iqk2ppaQiMAgBMB2JYgCdMoMYAEH6a2brswXBAADMh5GQCRibMNsULoZRFKj5d+flCu9KGIUuRfQ5XboScSCcRNsi9mgoIeql4F0afviDzQoUsr6AAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj (2026-11-11)",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
   },
   "deco-basket": {
     "w": 1672,
@@ -41,8 +41,8 @@
     "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYAA0APu1iqk2ppaQiMAgBMB2JZACdMoAC89eBvDUqvhkQAN9lKnvwiGr2P8unJqiIuJhnvBkz/rBio+dqWUuCVNTqX213s+D+Yu+6tJHUONgAAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj (2026-11-11)",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
   },
   "deco-croissants": {
     "w": 1672,
@@ -56,8 +56,8 @@
     "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoYAA0APu1iqU2ppaOiMAgBMB2JZgCdMoR4GCDgoIfXtziIAAD6wR9JOSciKLTSFXXKLIBfhhE89utB6nfz0V0b2EB3o9ydbXuLS34cZi29CgJt8ph+0AAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj (2026-11-11)",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
   },
   "deco-flour-bowl": {
     "w": 1536,
@@ -71,8 +71,8 @@
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYABAAPu1iqk4ppaQiMAgBMB2JQBWABH+TpDI29Y8irZNR0AAA/eHh3XHD6KE0LF7jlclOy5r8Kh1Rto7sGW5yjqehOFcu/hG/v72vSH5YTeXTMVTpLs/SwAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 18. 11. 2026",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
   },
   "deco-loaf": {
     "w": 1672,
@@ -86,8 +86,21 @@
     "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwBACdASoYAA0APu1iqU2ppaQiMAgBMB2JZgCdMoRwACXfRfnsCi7a30AA8lqyrSrA77+0Tp/0/pNhchTt3euddPX4z5zFNlsTyXZL42/rwV8nwloQufwkgAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj (2026-11-11)",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj (2026-11-11)",
+    "license": "Materijal naručitelja"
+  },
+  "flour-500-25kg": {
+    "w": 960,
+    "h": 1440,
+    "widths": [
+      640,
+      960
+    ],
+    "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABwBgCdASoYACQAPu1kq0+ppSOiMBVaqTAdiWUAtRuTgRrgAJ+NhfoD4yW121EWmP86plmHW3/YHwMWysAA/tQuuWjv7Z3TJw/7+e4bzVSSszFKkLA0eScO0BSlQ42ksJRcLMeuk0zG/3yFGxlPwpoGGWuaRnaZ4Kn5klJ8Umv6fr94P6FJTKPdhrw0XV6hMiAAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): PREMIUM PLAKAT 25 kg..png",
+    "license": "Materijal naručitelja"
   },
   "flour-550-1kg": {
     "w": 1199,
@@ -100,8 +113,8 @@
     "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBQCdASoYABoAPu1osFCppaSiqAqpMB2JYgCw7BDe6e4TP7DaqPUlmGqjL5izczpiAAD+tX5ybDs0ddO2b+1xRcepRWTD1nsloc0vurLdr7kxhuCgCdcSgXjwG1GrW0eK9+Yd9pwQKKidGIbAhJOy9VMKNtDAAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 18. 11. 2026",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
   },
   "flour-550-2kg": {
     "w": 1199,
@@ -114,8 +127,8 @@
     "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwBACdASoYABoAPu1oqU8ppiOiKA1RMB2JZgCxG68A0e4sj2/CgI7RaiQ5pWMQKgAA/e6RPlSmezYOIN8ofoVYuqX/2AldM+n6p2CCfzOEkk9rd4Ko1M2op4eRXYg2B4tuYvLbZJ8D5lZf91aBaFb4L6cAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 18. 11. 2026",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
   },
   "flour-550-5kg": {
     "w": 960,
@@ -127,12 +140,12 @@
     "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBQCdASoYACQAPulipk2pJaOiMAqpIB0JYgC2yB6XY1IHZsCTfnS/f5mmqi/pI99i3NAAAP6x9vhG8uCMxoNQUUS0wkbqk9GbEtWemziT+324rMFdgwuUbr+RlICkEosG5p7GJnsUX/uFd/Z3IliWIIDJY9zjHA+BQp8MslJ+VxmEwI1a7uHs8RlxEZ1hgubS9g/7IUUokIqLlqMCAAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 18. 11. 2026",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
   },
   "flour-banner-550": {
-    "w": 2560,
-    "h": 1048,
+    "w": 1920,
+    "h": 786,
     "widths": [
       640,
       960,
@@ -142,12 +155,12 @@
     "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQBACdASoYAAoAPu1kqU2ppaQiMAgBMB2JYgCdMoADUlffHfOUQBoqwAD+1FG9Nz7BDYiYj+ixpuaem0wcw+RQ3fNDiSU4yM8XPVLbI+d/AkdPf0AAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 18. 11. 2026",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 18. 11. 2026",
+    "license": "Materijal naručitelja"
   },
   "flour-integralno": {
-    "w": 2560,
-    "h": 3840,
+    "w": 1920,
+    "h": 2880,
     "widths": [
       640,
       960,
@@ -159,7 +172,7 @@
     "temporary": true,
     "source": "https://www.pexels.com/photo/powder-in-close-up-4964102/",
     "photographer": "Kaboompics",
-    "license": "Pexels License \u2014 https://www.pexels.com/license/",
+    "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 4964102
   },
   "flour-t400": {
@@ -176,12 +189,12 @@
     "temporary": true,
     "source": "https://www.pexels.com/photo/close-up-shot-of-white-powder-7110136/",
     "photographer": "Tara Winstead",
-    "license": "Pexels License \u2014 https://www.pexels.com/license/",
+    "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 7110136
   },
   "flour-t500": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -193,12 +206,12 @@
     "temporary": true,
     "source": "https://www.pexels.com/photo/powder-flour-on-white-ceramic-bowl-7110082/",
     "photographer": "Tara Winstead",
-    "license": "Pexels License \u2014 https://www.pexels.com/license/",
+    "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 7110082
   },
   "flour-t850": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -210,12 +223,12 @@
     "temporary": true,
     "source": "https://www.pexels.com/photo/flour-on-wooden-chopping-board-11726089/",
     "photographer": "diosix",
-    "license": "Pexels License \u2014 https://www.pexels.com/license/",
+    "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 11726089
   },
   "manifest-grain": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -227,12 +240,27 @@
     "temporary": true,
     "source": "https://www.pexels.com/photo/person-holding-brown-dried-wheat-on-his-hands-6412600/",
     "photographer": "Tymur Khakimov",
-    "license": "Pexels License \u2014 https://www.pexels.com/license/",
+    "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 6412600
   },
+  "mill-painting": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQBACdASoYABAAPu1yrU+pp6QiMAgBMB2JZQDImBRh3cUrFuAQs086QAC9zcCQ95A38D8wjQeDlHIiM8Lpry/qgPXKyAhPARwn6J9/RAAAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1377.JPG",
+    "license": "Materijal naručitelja"
+  },
   "p-bakin-kruh": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -242,44 +270,42 @@
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JbACsH8AA2NP7zlnHz6AA/Y8BBRp//zpD1Qk4Wdjsa/58MzKxLzV5KhPjFRoYT1dtORh3Q8oEghf/OwayNB74YMQ9edf4AAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Bakin kruh, 500g-1, Katalog, Svje\u017ee.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bakin kruh, 500g-1, Katalog, Svježe.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-bavarsko-pecivo": {
-    "w": 2410,
-    "h": 1707,
+    "w": 1920,
+    "h": 1360,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2410
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoYABEAPu1kqU2ppaQiMAgBMB2JZACdMxgC+2j1penInL0ooZgX9m0AAP7p1G7NOsNlq7FHjOmrwRVF5al3uKe22b+GKk61HNriPf2F+joE2wbDMhvWLAzG9j6MU8ceqQgBwji5SygAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Bavarsko pecivo za sendvi\u0107.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bavarsko pecivo za sendvić.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-bijeli-baguette-2": {
-    "w": 2509,
-    "h": 1707,
+    "w": 1920,
+    "h": 1306,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2509
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASoYABAAPu1kq04ppaQiMAgBMB2JbACdH8ADM/UaOvnAH9XnCAAA/VOdj3GKkJkiS90ZeRWUf0nrypMliEgQU1AFhVMQSUGHBYkhvpJ6QLLImMOROnfng1Fs4tgAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Bijeli baguette, 250g, Svje\u017ee, katalog 5.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli baguette, 250g, Svježe, katalog 5.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-bijeli-baguette": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -289,12 +315,12 @@
     "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASoYABAAPu1kqU2ppaQiMAgBMB2JagCdL1yBylbOyQvbZceocVGgAP7s1nBka9zaHcNZOndrxKeRY20mSv6dO1qA0q1LnyY//GPs2jsdtCOUNhJfoQ42vqgddS/yzO0AAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Bijeli baguette, 250g, DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli baguette, 250g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-bijeli-kruh": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -304,12 +330,12 @@
     "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JbACdACDpaV7MGm7iDnroAAD+q5gfbPJYRabV2HOGTl8H60E1QRYIrd28FKZRutZWe4HJdeGQT1SS/pGcBRc3kCF8YSu7OeqDwAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Bijeli, 500g-2, DZ i svje\u017ee.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli, 500g-2, DZ i svježe.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-bijeli-tost": {
-    "w": 2560,
-    "h": 1697,
+    "w": 1920,
+    "h": 1273,
     "widths": [
       640,
       960,
@@ -319,8 +345,8 @@
     "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASoYABAAPu1kqk2ppaQiMAgBMB2JaACdMoMrZEZwl1j+fYL0QNqsiUAA/qnttXY8cdI8sfWUVAU8lH9ulveIVMWkAjrlz2zk2atdQzrogkKOCJWoN8y6w912Qknw4X1wx9UUtAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Bijeli tost, 450g, Svje\u017ee, IG i FB 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Bijeli tost, 450g, Svježe, IG i FB 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-burek": {
     "w": 1138,
@@ -333,28 +359,27 @@
     "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABQBgCdASoYACQAPu1eq02ppSQiMBqqqTAdiWYAuy9BATny3bqyQVBF1ZCBSH/7wykaIr6lhZT05AySAAD+7pxbZkSicZEJ2RLgu/kq807XH91MadcZkGPlwthxJdozkV+H9ZyYQSfKyYXKmL3txmeoTka+lo2PDevziMblfI0IyUJ1DKDMcTX0dBjdU/dwEwbN4/7vxI8DNSCbkjg9rlZoYEpMR+W4htQOt8wf3IAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Burek kesica 880 gr..jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Burek kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
   },
   "p-chia-kajzerica": {
-    "w": 2442,
-    "h": 1707,
+    "w": 1920,
+    "h": 1342,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2442
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBQCdASoYABEAPu1mqk2ppaQiMAgBMB2JZgCsMuxK6B2Z+QZCrdvyLiu7AdCk3wPYAAD+3PPqY15sTfPSRX0eH7Sl+NMN7h8NuG401hDvyAhnpPkIyvTbaUYJ5u4SZg7heehr7XIGZoQLojFt8QioWsyWGJQUUOAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Chia kajzerica 60gr,DZ,katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Chia kajzerica 60gr,DZ,katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-ciabatta": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -364,12 +389,12 @@
     "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoADMMPbmzjERKAA/VCZiV4hTgFodOctLbsnoOr7CLZQFO9HOyYvecgfmCMhwdyWJABI3fv3XNBj3yS7c1OpgofHGZM18GXkAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Ciabatta 250g, Svje\u017ee, katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Ciabatta 250g, Svježe, katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-cokoladni-muffin-2": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -379,12 +404,12 @@
     "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASoYABAAPu1kqk2ppaQiMAgBMB2JagCdL1AFTi6/UadUdK+0DBrQAPtgbwhG19ihxa2UmElS9gg9bEC/g3Dn6nXmmy2PbriTVDEXAFjcAQ7Ad+dFW6FulJReRkLUITDDv6Fu5gJ8QAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): \u010cokoladni muffin 90 gr,DZ, katalog 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Čokoladni muffin 90 gr,DZ, katalog 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-cokoladni-muffin": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -394,12 +419,12 @@
     "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOgBCfJ/d/oSPSYg+MnWr2AAP4bqh9u8jR3fAHxWAXeXiMPAMgdZO/ncIqLTDf1wAy/Ft5buHekulPpOvvOcPGorw66AIlYAAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): \u010cokoladni muffin 90 gr, DZ,Katalog 1.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Čokoladni muffin 90 gr, DZ,Katalog 1.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-domaca-kiflica-sa-sirom": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -409,8 +434,8 @@
     "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JZACAAAfPuuasOWdQ39nWqAD+6fPw7GSifIJKwOlTPk5fcSThFh169/TDDVEaveUgks+PLbgpuhr+oMjx4y0TfYAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Doma\u0107a kiflica sa sirom, 30g, DZ, katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Domaća kiflica sa sirom, 30g, DZ, katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-domaci-kruh": {
     "w": 1667,
@@ -425,11 +450,11 @@
     "credit": "Mlinpek",
     "temporary": false,
     "source": "Katalog proizvoda Mlinpek d.d. (2022)",
-    "license": "Materijal naru\u010ditelja"
+    "license": "Materijal naručitelja"
   },
   "p-donuts-bijela-cokolada": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -439,12 +464,12 @@
     "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASoYABAAPu1orU6ppiSiMAgBMB2JZgCdMoADg3qL993FtY0a1ySUAAD1mh3xfcJ+BUl91iVr6lk7VKXn1K+yJwuUtpL06GYaZPsIacYM/7+yr1jn/rvh7ietNcbzex3H9UAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Dounats bijela \u010dokolada 50 gr, DZ, katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Dounats bijela čokolada 50 gr, DZ, katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-donuts-tamna-cokolada": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -454,8 +479,8 @@
     "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYABAAPu1iqk4ppaQiMAgBMB2JYgCdMoADgjshF5snpG0VsgAA3M9uVzdTDrY3R54baKTyZYyjrnH+t83kc3wr+JcQJMgdVub7FajpolMVaPGxUnEJIAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Dounats 50gr tamna \u010dokolada ,DZ katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Dounats 50gr tamna čokolada ,DZ katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-gladijator": {
     "w": 1645,
@@ -470,11 +495,11 @@
     "credit": "Mlinpek",
     "temporary": false,
     "source": "Katalog proizvoda Mlinpek d.d. (2022)",
-    "license": "Materijal naru\u010ditelja"
+    "license": "Materijal naručitelja"
   },
   "p-hamburger-pecivo": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -484,12 +509,12 @@
     "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBACdASoYABAAPu1kqU2ppaQiMAgBMB2JagCsIDZDEikXvWX91N5NVlQAAP1JVJrqwRYXAtGH/forOzOrsWvD0oxdfxVKFrNdPQK7yl8/KFxCvSm0RDfGVWmqeq8Xp9QjfTfW/xAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Hamburger pecivo, 250 g, Zoka.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Hamburger pecivo, 250 g, Zoka.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-heljdin-kruh": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -499,12 +524,12 @@
     "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoYABAAPu1kqk2ppaQiMAgBMB2JbACdABddjmgCh84024oAAP7c1O/Aq11ysElvlx8Bovrwob915txLPLI0KHVULFIEnWTaKOLa6/qXZVtl5EygVNKS7y9VIsInzf9FccbW2rqQZoAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Heljdin kruh 400 gr,DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Heljdin kruh 400 gr,DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-integralna-kajzerica": {
-    "w": 2560,
-    "h": 1601,
+    "w": 1920,
+    "h": 1201,
     "widths": [
       640,
       960,
@@ -514,12 +539,12 @@
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoYAA8APu1Ct1apoqakGAEwHYlAE6AEfhpFeWKH/aV4SuxAAP5Ae+1ZjGHA32S3vjixMryoZhN4RH07iPej3uJ1n0i9DtToCuJE4lIi2ghoqoR7xORtzQOAgFoAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Integralna kajzerica 6-1, 360 g, Svje\u017ee, katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Integralna kajzerica 6-1, 360 g, Svježe, katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-integralna-kifla": {
-    "w": 2560,
-    "h": 1606,
+    "w": 1920,
+    "h": 1205,
     "widths": [
       640,
       960,
@@ -529,8 +554,8 @@
     "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYAA8APu1Ct1apoqakGAEwHYliAKwgNkKiITVQEHMnUMAA7ldQ62+lDBFLgLnXxGYgQJERZmXyCNZaPYHnUDOvdnaplGDNSk5bQnLTczYAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Integralna kifla 2, 70g, Svje\u017ee i DZ, katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Integralna kifla 2, 70g, Svježe i DZ, katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-integralni-kruh": {
     "w": 1659,
@@ -545,11 +570,11 @@
     "credit": "Mlinpek",
     "temporary": false,
     "source": "Katalog proizvoda Mlinpek d.d. (2022)",
-    "license": "Materijal naru\u010ditelja"
+    "license": "Materijal naručitelja"
   },
   "p-kajzerica-sa-sjemenkama": {
-    "w": 2560,
-    "h": 1648,
+    "w": 1920,
+    "h": 1236,
     "widths": [
       640,
       960,
@@ -559,28 +584,27 @@
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoYAA8APu1qrU8ppiQiMAgBMB2JZgCdABYCHIA4lv+6BAAA8K2SWgZjCGa6AU5HSUnRpXZCan/IO7g2VKL8l1XxZFn9N/dwypIoZpTQ3Mb/E9hLgtA6AcQAAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kajzerica sa sjemenkama, 240g, 4-1, Svje\u017ee, IG i FB.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kajzerica sa sjemenkama, 240g, 4-1, Svježe, IG i FB.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kajzerica": {
-    "w": 2525,
-    "h": 1707,
+    "w": 1920,
+    "h": 1298,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2525
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQBACdASoYABAAPu1kqk4ppaQiMAgBMB2JagCdL1yAul2g+CJozs/PAAD+QH9A9Grhr02Ay6COpvlRIv9Dx3JqlGnoLRp64CpB/8n8KXMp1LL9/x5VqnciXsmGwgAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kajzerica, 360g, 6-1, Svje\u017ee i DZ, IG i FB.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kajzerica, 360g, 6-1, Svježe i DZ, IG i FB.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kifla-kopriva": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -590,12 +614,12 @@
     "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYABAAPu1mqk4ppaOiMAgBMB2JZgCsAB2dhEvwKJL83PBr4AD+5eoGcii7yd7+wAbWvJVmXTso91O+JqXnW8nk2B+qtt4xPkQds1/8S17ZvCEwvBqzKWT2kqzDUO/AAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kifka kopriva, 50 gr, DZ, katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kifka kopriva, 50 gr, DZ, katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kifla-sir-i-sunka": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -605,12 +629,12 @@
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYABAAPu1kqk4ppaQiMAgBMB2JaACdMoR3ACF+l1G9W+0Wa/AA/u0ID35TytGDgyqlJgK9t+N0NrBfcBurPtc9bNnR6HX5pcW5n1gHk/T/3vPo4dWM1Sn2tgA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kifla sir i \u0161unka 80gr, DZ,Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kifla sir i šunka 80gr, DZ,Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kroasan-kakao": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -620,12 +644,12 @@
     "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoYABAAPu1mq04ppaQiMAgBMB2JZAC06BexxL7SvciqjTaAAP7o6aD38ac46lj+92WmB1njt2uhdzFfLNJeDIdpAIKTurt54yRrKxR46FaAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kakao kroasan, 80g, DZ, Katalog 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kakao kroasan, 80g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-krofna-bijeli-preljev": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -635,44 +659,42 @@
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JYgCsAA8M/0qsFnp2rLwbIAD+z+wHX3RKUBQL48DsT342lJ7UM1+7ICSfqLA50R9sDlcw6IdNfuve4+/i1oxH6gZqEYmzCErAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Krofna bijeli preljev 80 gr. DZ,katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna bijeli preljev 80 gr. DZ,katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-krofna-cokolada": {
-    "w": 2388,
-    "h": 1707,
+    "w": 1920,
+    "h": 1372,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2388
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwBACdASoYABEAPu1mq0+ppSOiMBgIATAdiUAXYAHiQeXgb5QQGPcLcOSIze1GbEAA/tAIPnG25mBjkP1yA40/3YfU3Et4e3SBxk2YZXjWuN15wsoI3i2lGU+wE6Mg4hnpTLSHnp6z4D/uEAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Krofna \u010cokolada, 80g, Svje\u017ee i DZ, Katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna Čokolada, 80g, Svježe i DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-krofna-marmelada": {
-    "w": 2433,
-    "h": 1707,
+    "w": 1920,
+    "h": 1347,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2433
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADQBACdASoYABEAPu1oqk8ppiOiMBgIATAdiUAVgAHfBeIha/ToUD0h684TuXQuwAD+zeTVEx5AMwgKEiWDl5vvqkRViIc4IAlIQ3izR/gW14AwdMQYE+pam4QfppQUAnan8eDzokbeUkpixRRVegAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Krofna marmelada, 80g, Svje\u017ee i DZ, Katalog 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna marmelada, 80g, Svježe i DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-krofna-tamni-preljev": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -682,8 +704,8 @@
     "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCsABQd7MZk+IhsdWa+EOXAAPxxd9jos1JUhm4K5sdd8hIgc55x8YzG8Q/IMmWTzN9yNcNSkfpxodfmy6/3sShT3jO/kx84bj7CeyKj04eAAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Krofna tamni preljev 80 gr, DZ, katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krofna tamni preljev 80 gr, DZ, katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-krompirusa": {
     "w": 1138,
@@ -696,8 +718,8 @@
     "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACwBgCdASoYACQAPu1erk2ppSSiMBqqqTAdiWIAsOwX37sbNBI03DfTrxE6sc4bXStE+5dFnjzyd87R7F5YWAD+7D1Ac31uQnBDQDpsHsjaF54jKR+Iz3S4GH2Tv8zsVImWdsoh4AoMFK0yCvttgXh8BHozvFnqlEsZux2IFWOHhnHdYxpjH84eKymcIhZ8GjXhqSdHMNVu8bVHH7ACLaIWQL0FoaEljWmMwg5LCEAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Krompir kesica 880 gr..jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Krompir kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kukuruzna-kiflica": {
     "w": 1635,
@@ -712,11 +734,11 @@
     "credit": "Mlinpek",
     "temporary": false,
     "source": "Katalog proizvoda Mlinpek d.d. (2022)",
-    "license": "Materijal naru\u010ditelja"
+    "license": "Materijal naručitelja"
   },
   "p-kukuruzni-baguette-2": {
-    "w": 2560,
-    "h": 1668,
+    "w": 1920,
+    "h": 1251,
     "widths": [
       640,
       960,
@@ -726,12 +748,12 @@
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYABAAPu1orU6ppiSiMAgBMB2JbACdOUAAzLJ1OFbrVjeY14AA/Zay3mj0MHLPSjV2VqyEl7bXTy0sE55fypvmQJtmcZj0w/WueH7rnFtXPvVnJ9nonC9o4AA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kukuruzni baguette, 250g, Svje\u017ee, FB i IG 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzni baguette, 250g, Svježe, FB i IG 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kukuruzni-baguette": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -741,28 +763,27 @@
     "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASoYABAAPu1mqk4ppaOiMAgBMB2JbACdMoACj4XEIFovfQ0pIxAA/uy9i3IZcDF++MYqk4kt/YoBqg+wYj9CbedrcupEYdl6I6bMhJETifAkcGuDzmUxjZkuINxIqAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kukuruzni baguette, 250g, DZ, Katalog 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzni baguette, 250g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kukuruzni-kruh": {
-    "w": 2445,
-    "h": 1707,
+    "w": 1920,
+    "h": 1340,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2445
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACQBQCdASoYABEAPu1qr1CppaQiqAqpMB2JZACdMxx4GBT44ADctLcfrabGTx+1soS2fnBlQAD97M9iRikPDdtvhJ2G4dOYRe7RrTU1hLi2V6ro3nH7qwt5iAj8Z94B7SYTdnCx8dnCsOBaW62AFpub2iMgraX40sYCAPOrnmkWbn9wAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kukuruzni kruh, 500g, Svje\u017ee, IG i FB.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzni kruh, 500g, Svježe, IG i FB.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-kukuruzno-lisnato-sa-sirom": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -772,12 +793,12 @@
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYABAAPu1krU6ppaSiMAgBMB2JZgCsACHfRuSfaqZ7i4ETGEAA/tz7HsoLrsP5VZ2i33CkUlFiArWWeUrzRQZT6pf1o/ftaHY9b7kxxbceyMTeMYCi11e2AAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Kukuruzno lisnato sa sirom, 80g, DZ, Katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Kukuruzno lisnato sa sirom, 80g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-lepina": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -787,12 +808,12 @@
     "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgA0bZqWpTb4/DmQSo8AD+hoIqIGVqvfvloJaxr5RPJFnLOrS4wS3XY3/2GukkOU9yrA2+lsB+7VS5Wvrx2RF8AA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Lepina, 200g, Svje\u017ee, katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lepina, 200g, Svježe, katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-lisnato-chia-jogurt-borovnica": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -802,12 +823,12 @@
     "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwAwCdASoYABAAPu1kqk4ppaQiMAgBMB2JQBWABBqUf175tUmAOAD+PDbTadM15EMSzbmWxn/bf/ORJRJoc3IGAM1Tnb7aiV2D/OHNMhfkyLCPpUffIQkwlFgg20/82YwU2gAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Lisnato chia-jogurt-borovnica, 90g, DZ, Katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato chia-jogurt-borovnica, 90g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-lisnato-jabuka-cimet": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -817,12 +838,12 @@
     "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQBACdASoYABAAPu1kq04ppaQiMAgBMB2JZgCw7Bo3Z9IjMu1UHoLjSRAAAP7czMHo47c+PbSKsG1WU3NAJ8eDG4rMufWGXuYY40uq0PIC2f3lCF0A5LArYAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Lisnato jabuka-cimet, 80g, DZ, Katalog 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato jabuka-cimet, 80g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-lisnato-kakao-vanilija-malina": {
-    "w": 2560,
-    "h": 1614,
+    "w": 1920,
+    "h": 1211,
     "widths": [
       640,
       960,
@@ -832,12 +853,12 @@
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQBACdASoYAA8APu1oqk6ppiQiMAgBMB2JZACdMoADNhPxIO78T/j0ukQAAP4/01LKaWxm6nOO9WLVjc3tqYFyJSqfENhMHwxzlQPHItr6P5n3Y/pecibmHZ8X/gvN3RJAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Lisnato kakao-vanilija-malina, 90g, DZ, Katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato kakao-vanilija-malina, 90g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-lisnato-sa-hrenovkom": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -847,12 +868,12 @@
     "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQBACdASoYABAAPu1kqk2ppaQiMAgBMB2JaACsACKV96jdUAvJRc/rOHwAAP7c+yH2bqSIB56xVcWV1wsNpHpxwo++tds6jTqAsulNa/oXTHMdIRZKYvCO9bPG/0liolIySVjqAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Lisnato sa hrenovkom, 100g, DZ, Katalog 4.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato sa hrenovkom, 100g, DZ, Katalog 4.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-lisnato-visnja": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -862,12 +883,12 @@
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoACtYcf/DhcfccYsYAA/tDCkmHwM0uBbZ3E09hTCZSBvn1U8nYVoDkv4MmyAecLXT/npIzzUxnbTmWPV93F1r4Q9AAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Lisnato vi\u0161nja, 80g, DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Lisnato višnja, 80g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-mijesani-kruh-sa-sjemenkama-bundeve": {
-    "w": 2560,
-    "h": 1663,
+    "w": 1920,
+    "h": 1247,
     "widths": [
       640,
       960,
@@ -877,12 +898,12 @@
     "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQBACdASoYABAAPu1kqk4ppaQiMAgBMB2JbACdMoRwHaAAV7/kliyqpCJxfbLkoAD94C7sgH0NRQVEvv+EtGaJfnnO1TLMnG+9MyA86Kxf7PYbXljwlkS6v4R8UwIKGwndRGgAAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Mije\u0161ani kruh sa sjemenkama bundeve, 500g, Svje\u017ee, Katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Miješani kruh sa sjemenkama bundeve, 500g, Svježe, Katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-mlinpek-mix-2": {
-    "w": 2560,
-    "h": 1686,
+    "w": 1920,
+    "h": 1265,
     "widths": [
       640,
       960,
@@ -892,12 +913,12 @@
     "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBACdASoYABAAPu1mq04ppaQiMAgBMB2JagCdHYAAne5y7Ji7MSzQ0xqAAP7vS3x6gyO+GgKKY+nbTBZFm6VwGeg2x/n8Yv+Y5nfppmQCD0IQKJUgKkifSbr3mp7VpxXkdM8dq4AAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Mlinpek mix 400gr, DZ,Katalog 4.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Mlinpek mix 400gr, DZ,Katalog 4.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-mlinpek-mix": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -907,8 +928,8 @@
     "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JbACdMoACh2PjTH7iWwAiWsr+wwAA/ulA638SEasfIHEsx6yvdUZFMrTeCh2dBKOZL+5v3JhNHtenhbMij+avV7YqngL++OnhJNalErA08JxG9PZK2X9fcAAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Mlinpek mix 400gr, DZ,Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Mlinpek mix 400gr, DZ,Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-piletina": {
     "w": 1138,
@@ -921,44 +942,42 @@
     "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBgCdASoYACQAPu1kqU2ppaQiMBqqqTAdiWMAxQvpAlP5H4wGDPBCyPqr3ijL50vbTbk3PGp/w/NkAAD+7D1DqOKsCr8FkC3N07gJz3o0juE+0qz7WqHwk9q9O3LTwh5BE77067+nrk4tXhQhRYlOr7e/qv3lfGrqA+JSmbk9ReLsCKXMuuhqQ5ecyf05k2IKWWLQI3i3R/ebZzMsAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Piletina kesica 880 gr..jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Piletina kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
   },
   "p-pita-od-jabuka": {
-    "w": 2526,
-    "h": 1707,
+    "w": 1920,
+    "h": 1297,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2526
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQAALfhhCZgyVeAB+10QAAP7AIrmBRQgnGv2Zf0qJzuP+zN6IJfziroT3JKnAVEYVcUklVav9wLcwlQAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Pita od jabuka, 150g, DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Pita od jabuka, 150g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-pizza": {
-    "w": 2545,
-    "h": 1707,
+    "w": 1920,
+    "h": 1288,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2545
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASoYABAAPu1iqk2ppaQiMAgBMB2JagCdMoO4AAs0OrxHzR/0keTi8cAAAP7ciYzEMsgGp0tRxvMX1bUEB+FzzzuyerEvd+u/qsmAsFkT2u3VOJTNYrHpkCFTBOExjWmgAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Pizza 150 gr, DZ, katalog 1.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Pizza 150 gr, DZ, katalog 1.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-pletenica": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -968,12 +987,12 @@
     "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GCXW9GASpsNTmbl+/UFcAP5AgWSCtYKfTBVWDIknHXqK1VTQku1DJxgz9UEa7VDNwa8JiZDKZ9h66UgMqhYlR6jGmcoiFZqMonCicAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Pletenica 130 g, Svje\u017ee, katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Pletenica 130 g, Svježe, katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-polubijeli-kruh": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -983,28 +1002,27 @@
     "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABwBACdASoYABAAPu1oqk6ppiQiMAgBMB2JbACdMoMYAB/LmofuH9u6BirAAAD+q3JMxLbYWGiucJ7cMG6BWSEyiGX0z8Qcp6nGQvZHQyTiOX6Gt9DlApkDtXIpUjPq6ORA0bokrAAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Polubijeli 400g, 3, Katalog, Svje\u017ee.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Polubijeli 400g, 3, Katalog, Svježe.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-polubijeli-rezani-kruh": {
-    "w": 2462,
-    "h": 1707,
+    "w": 1920,
+    "h": 1331,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2462
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAABwBACdASoYABEAPu1krE6ppaQiKA1RMB2JQBA8IEalUqTgPd6y5OfE3ypagAD+JCTR0tknHI29yvXMzLxGtra5PCXGqh/5HBj15EBfvvrppS0vyb0zcV37Uw89oRfR7MldOspcMExu88AA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Polubijeli 600g, Narezan, Svje\u017ee, IG i FB 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Polubijeli 600g, Narezan, Svježe, IG i FB 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-premium-kroasan-cokolada-sa-maslacem": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1014,12 +1032,12 @@
     "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAwCdASoYABAAPu1mqk4ppaOiMAgBMB2JQBYdgQi7DgY49WXQAP7c0Cp5UK2cw9f8F/vcP0fu5tM8673oaTKVAHH5HLI833dDT0p0m6mP/kw7r4G+34zXZkd12UC5K5aOqkLoAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Premium kroasan \u010dokolada sa maslacem80g, DZ, Katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Premium kroasan čokolada sa maslacem80g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-premium-kroasan-vanilija-sa-maslacem": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1029,12 +1047,12 @@
     "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAwCdASoYABAAPu1krU6ppaSiMAgBMB2JZgCdACHfc7foIiYbucHIAP7dmVixxNUPNWt1BViNShbH3F8RL8vyQf8OUGpLDXJWiOlBGxaCwVJQNAOhIcSo5L8hXjI5m3UfRdoA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Premium kroasan vanilija sa maslacem80g, DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Premium kroasan vanilija sa maslacem80g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-puz-mak": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1044,12 +1062,12 @@
     "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoYABAAPu1kq04ppaQiMAgBMB2JYgC2yAenIg8U5prgAAD+wTeORSnYPRzLDsVvaler8EFqVSjEn0sz1UQnvFm+JIhtsmXPozzz+r65xyyylxQA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Pu\u017e mak, 100g, DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Puž mak, 100g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-razev-kruh-2": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1059,24 +1077,23 @@
     "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBACdASoYABAAPu1mqk2ppaQiMAgBMB2JZgCdIExC4t42eYM8ylVVVKQA/joVCci/qunesgR+1307OVPslXCgOqEMe38R1J0m8+KfmzxpphLnQr3C6rQ7yPILta6xFY9AMdqRmEAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Ra\u017eev kruh, 500g, Svje\u017ee, Narezano, IG i FB.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Ražev kruh, 500g, Svježe, Narezano, IG i FB.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-razev-kruh": {
-    "w": 2539,
-    "h": 1707,
+    "w": 1920,
+    "h": 1291,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2539
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoYABAALrV2u12jqampiYC0S2AE6ZQjssHObtIvp+8edK2QAAD8174na2fhNKWWphIVgwx6jyjg7mzLksrzfhrqw18qmE4XIVZVTHroeYl+oAem75YBVxYq7wAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Ra\u017eev kruh, 500g, Svje\u017ee, Narezano, IG i FB 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Ražev kruh, 500g, Svježe, Narezano, IG i FB 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-royal-kruh": {
     "w": 1241,
@@ -1090,7 +1107,7 @@
     "credit": "Mlinpek",
     "temporary": false,
     "source": "Katalog proizvoda Mlinpek d.d. (2022)",
-    "license": "Materijal naru\u010ditelja"
+    "license": "Materijal naručitelja"
   },
   "p-sirnica": {
     "w": 1138,
@@ -1103,12 +1120,12 @@
     "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADwBgCdASoYACQAPu1krE6ppaQiMBVaqTAdiWQAuzMmBlBnH9XviGI2fVcFiQMr5slYvpVAmVNi+ameFDzRLm+AAP70n5rxrja9GS6Cg1b6ktUrwU06gs2RbdzMD8FV5+DANhzi1xyCDk9FtL+hogbcHVzeJC/vkRk14Fwnuw/ACXBrWfgn0Y02QZZFHdoiBA1hJ21U1/m1/VJT0LvyWUIsHk69XzftGn6a55EscIID9AAAAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Sirnica kesica 880 gr..jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Sirnica kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
   },
   "p-slana-kifla": {
-    "w": 2560,
-    "h": 1673,
+    "w": 1920,
+    "h": 1255,
     "widths": [
       640,
       960,
@@ -1118,12 +1135,12 @@
     "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYABAAPu1mqk4ppaOiMAgBMB2JbACsIExCGW7ZjHQ7OdrUa4AA/oMs0m0BP01oZ7qBlBgp4n2aAfy2G4/cwfFg1nJZ3njm+OP0WdjjIcQb3hQfKLDEAAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Slano pecivo-2 Kifla, 70g, Katalog, DZ i Svje\u017ee.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Slano pecivo-2 Kifla, 70g, Katalog, DZ i Svježe.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-tamni-baguette-2": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1133,12 +1150,12 @@
     "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdL1yB0BoruSjYkUkAAP7p/TywIFIbG+TO7hIBb6h/jpGfuplzGqpakudpm5C18e87se21NhjFOQbwDSkyGeCZhiWzACJ8N48seGuyyF+CMkeMSZAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Tamni baguette, 250g, DZ, Katalog 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Tamni baguette, 250g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-tamni-baguette": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1148,12 +1165,12 @@
     "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwBACdASoYABAAPu1kqk4ppaQiMAgBMB2JZgCw7CBsunNRtcI3Ql+4T8AA/un9O7J3bSpZgz0GdLjD0nZaTI6K3zabuXa0n43vf6nl7cLUzvFLmWqDwM6gw4sMdUIQklKYwAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Tamni baguette, 250g, DZ, Katalog 1.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Tamni baguette, 250g, DZ, Katalog 1.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-vital-kruh": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1163,8 +1180,8 @@
     "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASoYABAAPu1kqU2ppaQiMAgBMB2JZACdMoMe6EPQobQUyxdL+g+TpQAA3l441ZFAAXicm06PT1L5rBWglqKOxQyh7+jdL2vWWc7a30I1vfsnsYXDDW2jaxmoFAAAAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Vital kruh, 500g, Svje\u017ee, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Vital kruh, 500g, Svježe, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-zeljanica": {
     "w": 1138,
@@ -1177,12 +1194,12 @@
     "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACwBgCdASoYACQAPu1mqk8ppaOiMBVaqTAdiWoAuzNtRvhnH7xX5EWv11BGNBT+1vwIok+PdO0G0+iiHg50WAD+9t9Ou4lm0FayPqKHPqobMyQ6mWMX7t889ZwS4hnR+dZiAvmZfODoQl3TqH+As4K5/qPynKMQaX5nzWfaWwz+zpJOqdZmj7nbCjNASqOyK6OFpEK9DRZVDplje2wBFW8SWFEMpkAPMP0AAA==",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Zeljanica kesica 880 gr..jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zeljanica kesica 880 gr..jpg",
+    "license": "Materijal naručitelja"
   },
   "p-zlatni-muffin": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1192,12 +1209,12 @@
     "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoADgdpULV/PJ8TXSu9gAP6rBzvPUahdHAnHAPs6ITtC/d/YjITQOZNkm/JqAiaTXopBiqx2ZZ7n0ugZeoPs+c2pQ4Gs93k4C1G7Sd2AAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Zlatni muffin 90gr,DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zlatni muffin 90gr,DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-zvijezda": {
-    "w": 2560,
-    "h": 1699,
+    "w": 1920,
+    "h": 1274,
     "widths": [
       640,
       960,
@@ -1207,12 +1224,12 @@
     "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoYABAAPu1kqU2ppaQiMAgBMB2JbACdMoRisAzqKRTLJiwtzsAA/sBmpVQ34dWifugDGgZj5kbVCvMe/7BlMLogJJGXyt00wTYEHKBUUbO96plttxBbIJVYlKjMWUoN7LyayXjKLbbxqL0AAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Zvijezda 7-1, 400g, Svje\u017ee, IG i FB.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvijezda 7-1, 400g, Svježe, IG i FB.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-zvrk-sa-krompirom": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1222,12 +1239,12 @@
     "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYABAAPu1mqk2ppaQiMAgBMB2JaAC06B7HxkgO9r6PBzv83IAA/qntI9fZMCPVGNrjpjFIyHC1dx+blbG+8NpWZHeNgGCIbBonn4b5FMjLYVpe8LZQXhAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Zvrk sa krompirom, 150g, DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa krompirom, 150g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-zvrk-sa-mesom": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1237,12 +1254,12 @@
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoYABAAPu1mqk4ppaOiMAgBMB2JZgCsACBjuGDJNxmzQgAA/iR91mm1jhn6+oH0sKn9FB1Fz8hg4aFjE+Eqp4gyd9Wx1WTzjGNPw6eO6b4cOh/LmoJX7hh6AAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Zvrk sa mesom, 150g, DZ, Katalog 2.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa mesom, 150g, DZ, Katalog 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-zvrk-sa-sirom": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1252,12 +1269,12 @@
     "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoYABAAPu1krU2ppaSiMAgBMB2JagCsAB7Cc2SAyYGoIAD+eL0cgoit/4N7yLsYlRPj//30lQM79lmB1zqSNUuyO1u5nf4Zs6PLnVAOEgtTwLRKTkziAAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Zvrk sa sirom, 150g, DZ, Katalog.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa sirom, 150g, DZ, Katalog.jpg",
+    "license": "Materijal naručitelja"
   },
   "p-zvrk-sa-zeljem": {
-    "w": 2560,
-    "h": 1661,
+    "w": 1920,
+    "h": 1246,
     "widths": [
       640,
       960,
@@ -1267,24 +1284,128 @@
     "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoYABAAPu1qrU8ppiQiMAgBMB2JZgCdL1yAjC00no7KudAArea65QV3pTdqzFbEIJhkokefEOstRSxlAd1hm6rodGzxF5bojl3eGklNTcqBDhsCiUJ68QAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Fotografija proizvoda (dostavio naru\u010ditelj 17. 11. 2026): Zvrk sa zeljem, 150g, DZ, Katalog 3.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa zeljem, 150g, DZ, Katalog 3.jpg",
+    "license": "Materijal naručitelja"
   },
-  "prod-hall-mlinpek": {
-    "w": 2276,
-    "h": 1707,
+  "prod-donuts": {
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2276
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYABAAPu1krU2ppaSiMAgBMB2JQBOmUABLiuFHDLxiZMAA/p51VZsqCndahPCWb7h5NEsXP5J9gqXsgZlUVzpWfYJBfEoenYMIAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1423.JPG",
+    "license": "Materijal naručitelja"
+  },
+  "prod-dough": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoYABAAPu1orU6ppiSiMAgBMB2JZQAAW+EPpJK/a7xBMdCAAMtJtJkq4Ko4kxpX8Ka62yqAku5gKZ7YJ/8enEjHB1/erlI8bvlMPE5lX2KcT+YQAXKAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1405.JPG",
+    "license": "Materijal naručitelja"
+  },
+  "prod-fortuna-line": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAwCdASoYABAAPu1kq04ppaQiMAgBMB2JaQAAXg0oF9Z7Tpn9YIAAy0RAWlJp5Kg9yk9X8WGoYgL/8fWanVlWWzh1HehlPFKwsIAA",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1398.JPG",
+    "license": "Materijal naručitelja"
+  },
+  "prod-fortuna": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABQAwCdASoYABAAPu1krU2ppaSiMAgBMB2JZwAAB+DuDcSVWAD9+w5qvGKHODD2aXMQZM+yW/iKt9yI75OAc8jgAAA=",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1397.JPG",
+    "license": "Materijal naručitelja"
+  },
+  "prod-hall-2": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBQCdASoYABIAPuFWpk2opKOiN/qoARAcCWkAAFoO6nONZj2zLTQYX6yM4agLhrAAAP5S9PmOePnj+w1kXCrzrCbwVocWI9bG3yVjFxoWKKS5+h4cAAAA",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Proizvodnja 3.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-hall-3": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAwCdASoYABIAPu1kqE2ppaOmMAgBMB2JZwDI1BIhLGeva1/LVT1wAPB/70f2mbq2kNphT7oVfZCUByqEer3KW06Z2cxFpf/yXYAA",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Proizvodnja 5.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-hall-mlinpek": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASoYABIAPtlcpE2oJaOiN/qoAQAbCWcAuDAd0MKBcE8s4uQkNlu9AAD4v5afl212s/96q2HbUiIGl+O7kKjtPk7jkCh1/PkvhI/PYdPTgXTcOZ6ILfaETwHa0AA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 17. 11. 2026: Proizvodnja 4.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodnja 4.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-kornfeil": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoYABAAPu1krU2ppaSiMAgBMB2JZQAOcAHdjPNY5AM1CiAA/IaSNLOHkx2bftBfM1a1rON9VdLlzzQUpAemuF+yctXepuFZ5aqODYWAAAA=",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1381.JPG",
+    "license": "Materijal naručitelja"
   },
   "prod-line-mlinpek": {
     "w": 1280,
@@ -1297,12 +1418,83 @@
     "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASoYACAAPu1krVCppSQisBgIATAdiWMAv+xlkmUiLcpWrApDCmCZHlmExAAA/hYyMdMsqaOXUg4x1JeQkr2NKFCvhVIHis7bHRzz9kV7jXTPA2tZe0OB4w5DtcJMhdSH+3RuTFY3iDH0aa3el/SB94utxJoWIAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 17. 11. 2026: Proizvodnja 1.jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodnja 1.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-ovens": {
+    "w": 738,
+    "h": 984,
+    "widths": [
+      640,
+      738
+    ],
+    "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwBQCdASoYACAAPuVgqk2pJaQiMAwBIByJZwAA69MvhApB5CzLG3Q1lmh2I9kYbk7LQAD+dKPzgt8duHrpzAlf6coHwEGsD2imsOlBDBPQe0iEoEEuI3W7Hoe7Arede8InWeMn08jzFDAuGAAAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Proizvodnja 6.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-racks": {
+    "w": 960,
+    "h": 1280,
+    "widths": [
+      640,
+      960
+    ],
+    "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASoYACAAPtFWoU2oJSMiN+gBABoJaQAAPNG+C4qMS4E8F5U9QVaioAD9HBMJ+Oof0azsvPAXtHI4Q1ohnmqVFYyVJsYBXHIOBZ0VaeRa+MI5WeoMjFariXIAAAA=",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Proizvodnja 7.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "prod-rolls-2": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAwCdASoYABAAPu1kqk4ppaQiMAgBMB2JQBOkCYhgTKmeH9u6AAD+693IIdgcGqZRrSgNeMpJEIvgvZDZ76634Wgvv+y0Jp7iexD/MNd1dDxetfh/vADkixv5GPnzIXKAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1388.JPG",
+    "license": "Materijal naručitelja"
+  },
+  "prod-rolls": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOmUGYwCTRbU+lyzvBhAAD+o2ARlkbk7XMgsyZrvLCfpKlJnE47gvefafCs9z6GOxR4sp41RYWLl04WuH/voXG1PjFBR2DbWZ0VtAA=",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): IMG_1387.JPG",
+    "license": "Materijal naručitelja"
+  },
+  "prod-tanks": {
+    "w": 1800,
+    "h": 2400,
+    "widths": [
+      640,
+      960,
+      1280,
+      1800
+    ],
+    "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASoYACAAPu1qrU8ppiQiMBgIATAdiWUAyRAu4Q9rdlTnDXIXIuQZg9Z+AACxXUAprEk9nt9A7UGC5KOlywBRGTS785F3lTimSQdDpPxcDU12XnfuRIAUoALft84D7wbFIyriiiqAzN7Ac8yS49BAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Proizvodnje 2.jpg",
+    "license": "Materijal naručitelja"
   },
   "quality-crust": {
-    "w": 2560,
-    "h": 1707,
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
@@ -1314,71 +1506,108 @@
     "temporary": true,
     "source": "https://www.pexels.com/photo/close-up-of-freshly-baked-bread-crust-texture-30666754/",
     "photographer": "Natalia Olivera",
-    "license": "Pexels License \u2014 https://www.pexels.com/license/",
+    "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 30666754
   },
   "sandwich-1": {
-    "w": 2423,
-    "h": 1707,
+    "w": 1920,
+    "h": 1353,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2423
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBQCdASoYABEAPu1oq08ppiOiMBgIATAdiWQAnTLVOBgUMTANFlfMNegj7y4b2d4dIAD+7L4/eNucV7/pC4TyMHxlyVpbTwIR+Frj6pfjgKCjJhh3y7qXXulGX/Z93FIxgdk961gtL184sXd2ABCp/Uk4AAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 17. 11. 2026: Proizvodi (140).jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodi (140).jpg",
+    "license": "Materijal naručitelja"
   },
   "sandwich-2": {
-    "w": 2519,
-    "h": 1707,
+    "w": 1920,
+    "h": 1301,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2519
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASoYABAAPu1mqk4ppaOiMAgBMB2JbACdMoRwACWRMAyOSLu2dZLgAP7vSyTaZf7yu9clOekp0MT5i1acwgmDfS9DsHHHgsJSp1/lbapk6uwtKQezxAT2kjy834A7fYAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 17. 11. 2026: Proizvodi (141).jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 17. 11. 2026: Proizvodi (141).jpg",
+    "license": "Materijal naručitelja"
   },
   "store-mlinpek-1": {
-    "w": 2433,
-    "h": 1707,
+    "w": 1920,
+    "h": 1347,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2433
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBQCdASoYABEAPu1mqk+ppaOiMBgIATAdiWMAnTNMQavB1EuFkrY3JKU041nsPw4KAADbuGIWguywxmJuqYTJKQvr5+qUu06sIwPa3Ri//ZtMiprFk1DHYHJIiAbyAowLIp7ON8m//4K8B+fNusAAAAA=",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 17. 11. 2026: Pekara (2).jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 17. 11. 2026: Pekara (2).jpg",
+    "license": "Materijal naručitelja"
   },
   "store-mlinpek-2": {
-    "w": 2253,
-    "h": 1707,
+    "w": 1920,
+    "h": 1455,
     "widths": [
       640,
       960,
       1280,
-      1920,
-      2253
+      1920
     ],
     "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwBACdASoYABIAPuVcpU2pJSOiMAwBIByJQBOgAxW2T0IvaTmAekLENcIgR4wAAP4XG1bTzCrox8qg/WBeuzEPKx7wgoAdhQOeY2wniHy8UK8vhTi4cf9J2vKnGxR2Ay470RUvEQShQAAA",
     "credit": "Mlinpek",
     "temporary": false,
-    "source": "Dostavio naru\u010ditelj 17. 11. 2026: Pekara (3).jpg",
-    "license": "Materijal naru\u010ditelja"
+    "source": "Dostavio naručitelj 17. 11. 2026: Pekara (3).jpg",
+    "license": "Materijal naručitelja"
+  },
+  "store-mlinpek-3": {
+    "w": 1920,
+    "h": 1281,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAwBACdASoYABAAPu1orU2ppqSiMAgBMB2JQBYdg3SQeG2v8em0rfWgCsAA/gIOJNLAwsxs7e0Q89LFTWbt6jOrf/wDjlTFm08d1orn4Squ8SP0wMKve+KCAKYAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Pekara (1).jpg",
+    "license": "Materijal naručitelja"
+  },
+  "store-mlinpek-4": {
+    "w": 960,
+    "h": 540,
+    "widths": [
+      640,
+      960
+    ],
+    "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APu1iqU2ppaOiMAgBMB2JQBYdgkF2W/HdAcV4WKAAyq8cDLMWe+0Ioch1aBtQmtW9+g57cpdeoLM4CxfxTOxsMTlCIDV0AA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Pekara 2.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "store-mlinpek-5": {
+    "w": 960,
+    "h": 540,
+    "widths": [
+      640,
+      960
+    ],
+    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASoYAA4APu1iqk2ppaQiMAgBMB2JYwCdMoADUelQplhGBtqfyAD+vIz07mTkwiWahaOnG5E3zts23c+MYeQq8ehNVDVtApsRa22ZF1oJ0W3uss2gAAA=",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Pekara.jpg",
+    "license": "Materijal naručitelja"
   }
 }
