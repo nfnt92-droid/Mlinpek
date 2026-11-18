@@ -10,3 +10,6 @@ source-footage/
 photo-sources/*
 !photo-sources/README.md
 !photo-sources/credits.json
+
+# local Cloudflare dev state
+.wrangler/
