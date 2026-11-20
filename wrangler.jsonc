@@ -11,5 +11,8 @@
     "not_found_handling": "404-page",
     "run_worker_first": ["/api/*"]
   },
-  "observability": { "enabled": true }
+  "observability": { "enabled": true },
+  // keep variables set in the dashboard (FORM_FROM, FORM_TO, FORM_TO_JOBS) across deploys;
+  // RESEND_API_KEY is a secret and survives deploys anyway
+  "keep_vars": true
 }
