@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { RoleIllustration, type RoleId } from "@/components/ui/Illustrations";
-import { SITE } from "@/content/site";
+import { FormDownloads } from "./FormDownloads";
 
 /**
  * Careers block (client brief 18. 11. 2026: "zaseban odjeljak sa ilustracijama prodavača, tehnologa,
@@ -16,7 +16,6 @@ export const ROLES: { id: RoleId; label: string; text: string }[] = [
 ];
 
 export function CareersSection({ id = "zaposljavanje", compact = false }: { id?: string; compact?: boolean }) {
-  const jobs = SITE.careers;
   return (
     <section id={id} aria-labelledby={`${id}-title`} className="scroll-mt-20 bg-ink text-ivory">
       <div className="wrap section">
@@ -53,14 +52,7 @@ export function CareersSection({ id = "zaposljavanje", compact = false }: { id?:
             >
               Popunite prijavu online <span aria-hidden="true">→</span>
             </Link>
-            <a
-              href={jobs.formPdf}
-              target="_blank"
-              rel="noopener"
-              className="inline-flex min-h-14 items-center gap-3 border border-ivory/30 px-6 text-[12px] uppercase tracking-[0.2em] text-ivory/85 transition-colors hover:border-ivory"
-            >
-              Obrazac za ispis (PDF) <span aria-hidden="true">↗</span>
-            </a>
+            <FormDownloads tone="dark" word={false} />
           </div>
         )}
       </div>

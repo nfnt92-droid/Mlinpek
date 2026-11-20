@@ -3,7 +3,7 @@ import { PageHero, Section, pageMeta } from "@/components/shared/PageParts";
 import { Eyebrow } from "@/components/ui/Editorial";
 import { Photo } from "@/components/ui/Photo";
 import { CareersSection } from "@/components/shared/CareersSection";
-import { SITE } from "@/content/site";
+import { FormDownloads } from "@/components/shared/FormDownloads";
 
 export const metadata = pageMeta(
   "/zaposljavanje/",
@@ -15,7 +15,6 @@ const cta =
   "inline-flex min-h-14 items-center gap-4 bg-charcoal px-8 text-[12px] font-medium uppercase tracking-[0.2em] text-ivory transition-colors hover:bg-ink";
 
 export default function ZaposljavanjePage() {
-  const jobs = SITE.careers;
   return (
     <main id="sadrzaj">
       <PageHero
@@ -71,13 +70,8 @@ export default function ZaposljavanjePage() {
             <p className="measure mt-6 leading-relaxed text-charcoal/70">
               Isti obrazac možete preuzeti, ispuniti na računaru ili rukom i dostaviti nam ga.
             </p>
-            <div className="mt-8 flex flex-wrap gap-3">
-              <a href={jobs.formPdf} target="_blank" rel="noopener" className="inline-flex min-h-12 items-center gap-3 border border-charcoal/30 px-6 text-[12px] uppercase tracking-[0.2em] transition-colors hover:border-charcoal">
-                PDF za ispis <span aria-hidden="true">↗</span>
-              </a>
-              <a href={jobs.formDocx} download className="inline-flex min-h-12 items-center gap-3 border border-charcoal/30 px-6 text-[12px] uppercase tracking-[0.2em] transition-colors hover:border-charcoal">
-                Preuzmi (Word) <span aria-hidden="true">↓</span>
-              </a>
+            <div className="mt-8">
+              <FormDownloads />
             </div>
             <p className="mt-10 max-w-[40ch] text-sm leading-relaxed text-charcoal/55">
               Podatke iz prijave obrađujemo isključivo u svrhu selekcije i zapošljavanja, u skladu sa Zakonom o zaštiti ličnih podataka.
