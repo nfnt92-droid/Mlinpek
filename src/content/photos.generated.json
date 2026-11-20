@@ -1287,6 +1287,54 @@
     "source": "Fotografija proizvoda (dostavio naručitelj 17. 11. 2026): Zvrk sa zeljem, 150g, DZ, Katalog 3.jpg",
     "license": "Materijal naručitelja"
   },
+  "people-handshake-deal": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACwAwCdASoYABAAPu1kq04ppaQiMAgBMB2JYwAAWzRKSoslMl3fgAD+a9iRgEvIGQMeJUqqQNP6GHBM9awbEfvHUxBAOUO1XbnvCejSMOefhI/HdKgYrzNNwcsb9yRyB0QAAA==",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/5673488/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 5673488
+  },
+  "people-handshake-office": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYABAAPu1kqk2ppaQiMAgBMB2JQBWAAxn9hCdG793OhJX1cAAA/vHd5k4pzeJuvBF1ijX8QRR0Lm6gnb2fT65TE/FX3DUxaaF6+hElfN2GLJPmGFzcAAAA",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/3184465/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 3184465
+  },
+  "people-interview": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQBACdASoYABAAPu1oqk6ppiQiMAgBMB2JZwAAXFA0AKZK6Ddf5iRtbTEAAP7XpYd4gf1sqa0543wTQDl0fe9Z3z0+Y8Av9x9+Cx0BWFYYTT2d5DAwCbhke1gLbigA",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/5439148/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 5439148
+  },
   "prod-donuts": {
     "w": 1920,
     "h": 1280,

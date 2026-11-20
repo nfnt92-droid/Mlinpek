@@ -48,7 +48,7 @@ export function CareersSection({ id = "zaposljavanje", compact = false }: { id?:
         {!compact && (
           <div className="mt-14 flex flex-col items-start gap-6 sm:flex-row sm:flex-wrap sm:items-center md:mt-16" data-reveal>
             <Link
-              href="/zaposljavanje/"
+              href="/zaposljavanje/prijava/"
               className="inline-flex min-h-14 items-center gap-4 bg-wheat px-8 text-[12px] font-medium uppercase tracking-[0.2em] text-ink transition-colors hover:bg-ivory"
             >
               Popunite prijavu online <span aria-hidden="true">→</span>

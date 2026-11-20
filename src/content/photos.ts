@@ -127,6 +127,11 @@ export const PHOTOS = {
   "sandwich-1": { brief: "Sendvič u svježem pecivu sa šunkom i zelenom salatom", alt: "Sendvič u svježem pecivu sa šunkom i zelenom salatom", tone: "crust", focal: [50, 50] },
   "sandwich-2": { brief: "Sendvič u pecivu sa šunkom, sirom i salatom", alt: "Sendvič u pecivu sa šunkom, sirom i salatom", tone: "crust", focal: [50, 50] },
 
+  // ── people / business (temporary Pexels, 20. 11. 2026)
+  "people-handshake-office": { brief: "Rukovanje — dobrodošlica novom kolegi", alt: "Dvije osobe se rukuju preko stola u svijetlom uredu", tone: "linen", focal: [50, 45] },
+  "people-handshake-deal": { brief: "Poslovno rukovanje, dogovor", alt: "Poslovno rukovanje iznad stola s dokumentima", tone: "linen", focal: [55, 50] },
+  "people-interview": { brief: "Razgovor za posao", alt: "Kandidatkinja se smiješi tijekom razgovora za posao u uredu", tone: "linen", focal: [42, 45] },
+
   // ── client folder "Mlinpek" (18. 11. 2026): 25 kg flour poster, mill painting, production, shops
   "flour-500-25kg": { brief: "Plakat: Brašno pšenično bijelo tip 500, 25 kg — nova ambalaža", alt: "Mlinpek plakat: Novo ruho. Ista vrhunska kvaliteta. Brašno pšenično bijelo tip 500, vreća od 25 kg", tone: "flour", focal: [50, 50] },
   "mill-painting": { brief: "Slika Mlinpekova mlina sa silosima (umjetnička slika)", alt: "Umjetnička slika Mlinpekova mlina u Bugojnu: visoki silosi s natpisom Mlinpek, okruženi zelenilom", tone: "linen", focal: [50, 50] },

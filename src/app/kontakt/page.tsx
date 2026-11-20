@@ -3,6 +3,7 @@ import { ArrowLink, Eyebrow } from "@/components/ui/Editorial";
 import { InquiryForm } from "@/components/shared/InquiryForm";
 import { ALL_TYPES } from "@/content/inquiries";
 import { CareersSection } from "@/components/shared/CareersSection";
+import { PhotoBand } from "@/components/ui/PhotoBand";
 
 export const metadata = pageMeta(
   "/kontakt/",
@@ -48,6 +49,10 @@ export default function KontaktPage() {
           </div>
         </div>
       </Section>
+
+      <PhotoBand id="people-handshake-deal" align="left">
+        Dogovorimo suradnju.
+      </PhotoBand>
 
       <CareersSection />
     </main>

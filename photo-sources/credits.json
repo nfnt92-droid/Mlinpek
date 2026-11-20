@@ -658,5 +658,26 @@
     "temporary": false,
     "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Pekara.jpg",
     "license": "Materijal naručitelja"
+  },
+  "people-handshake-office": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/3184465/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 3184465
+  },
+  "people-handshake-deal": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/5673488/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 5673488
+  },
+  "people-interview": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/5439148/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 5439148
   }
 }
