@@ -133,6 +133,7 @@ export const PHOTOS = {
   "people-interview": { brief: "Razgovor za posao", alt: "Kandidatkinja se smiješi tijekom razgovora za posao u uredu", tone: "linen", focal: [42, 45] },
 
   // ── client folder "Mlinpek" (18. 11. 2026): 25 kg flour poster, mill painting, production, shops
+  "flour-500-25kg-pack": { brief: "Pakiranje: Brašno pšenično bijelo tip 500, 25 kg", alt: "Vreća Mlinpek brašna pšeničnog bijelog tip 500 od 25 kg na drvenom stolu, uz klasje, zdjelu brašna i kruh", tone: "flour", focal: [50, 48] },
   "flour-500-25kg": { brief: "Plakat: Brašno pšenično bijelo tip 500, 25 kg — nova ambalaža", alt: "Mlinpek plakat: Novo ruho. Ista vrhunska kvaliteta. Brašno pšenično bijelo tip 500, vreća od 25 kg", tone: "flour", focal: [50, 50] },
   "mill-painting": { brief: "Slika Mlinpekova mlina sa silosima (umjetnička slika)", alt: "Umjetnička slika Mlinpekova mlina u Bugojnu: visoki silosi s natpisom Mlinpek, okruženi zelenilom", tone: "linen", focal: [50, 50] },
   "prod-tanks": { brief: "Proizvodnja: spremnici", alt: "Spremnici od nehrđajućeg čelika u Mlinpekovu pogonu", tone: "crust", focal: [50, 50] },

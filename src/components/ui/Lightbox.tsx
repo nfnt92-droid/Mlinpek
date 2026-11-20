@@ -75,7 +75,11 @@ export function ProductQuickView({ items, index, onClose, onIndex }: { items: Ba
   const prevItem = items[(index - 1 + n) % n];
   const nextItem = items[(index + 1) % n];
   // same product in another pack size → name the size instead of repeating the name
-  const navLabel = (x: BakeryItem) => (x.name === it.name && x.weight ? x.weight : x.name);
+  const navLabel = (x: BakeryItem) => {
+    if (x.name === it.name && x.weight) return x.weight;
+    const type = x.category === "brasno" ? x.name.match(/tip\s*\d+/i)?.[0] : undefined; // flour: "Tip 550, 2 kg"
+    return type && x.weight ? `${type[0].toUpperCase()}${type.slice(1)}, ${x.weight}` : x.name;
+  };
 
   return (
     <div

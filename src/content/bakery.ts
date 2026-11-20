@@ -120,7 +120,7 @@ export const FLOUR_LEAD: BakeryItem = {
   name: "Brašno pšenično bijelo tip 500",
   category: "brasno",
   weight: "25 kg",
-  photos: ["flour-500-25kg"],
+  photos: ["flour-500-25kg-pack", "flour-500-25kg"],
   description:
     "Naše brašno tip 500 u vreći od 25 kg, bogato proteinima — u novoj, čvršćoj ambalaži, za još bolje rezultate u svakoj pekarskoj i kulinarskoj priči.",
 };

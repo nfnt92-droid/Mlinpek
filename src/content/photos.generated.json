@@ -89,6 +89,19 @@
     "source": "Dostavio naručitelj (2026-11-11)",
     "license": "Materijal naručitelja"
   },
+  "flour-500-25kg-pack": {
+    "w": 960,
+    "h": 1440,
+    "widths": [
+      640,
+      960
+    ],
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBgCdASoYACQAPulgpk2pJaOiMAqpIB0JQBajbHh2BEFFny2+ImN4q+uTrLrdQ5YkzfJSoF/5MxqgAPvpBpl4Pj3HMA1fr84iQkUK/wTq58OPNTxCpLXEV8/Zhzv8SoVqTXKAwyFd/1sxGTEZhPJciZiPj417N7p8Z1EkSc38pJVyqZGjSewibwQpLHOddwwJ4Zj/rZhmKetBil6nyqLwicSAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (20. 11. 2026): Mlinpek_Premium_Flour_Still_Life.png",
+    "license": "Materijal naručitelja"
+  },
   "flour-500-25kg": {
     "w": 960,
     "h": 1440,
