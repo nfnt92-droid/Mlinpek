@@ -128,7 +128,7 @@ export const PHOTOS = {
   "sandwich-2": { brief: "Sendvič u pecivu sa šunkom, sirom i salatom", alt: "Sendvič u pecivu sa šunkom, sirom i salatom", tone: "crust", focal: [50, 50] },
 
   // ── careers: one photo per kind of work (temporary Pexels, 23. 11. 2026)
-  "job-prodavac": { brief: "Prodavač za pultom pekare", alt: "Prodavač u pekari pruža vrećicu s pecivom preko vitrine", tone: "linen", focal: [58, 40] },
+  "job-prodavac": { brief: "Prodavačica za pultom pekare", alt: "Nasmiješena prodavačica tamne kose u pregači za pultom s kroasanima i pecivom pod staklenim zvonom", tone: "linen", focal: [50, 58] },
   "job-pekar": { brief: "Pekar oblikuje tijesto", alt: "Pekar oblikuje tijesto za baguette, ispred njega pečena peciva", tone: "linen", focal: [50, 45] },
   "job-tehnolog": { brief: "Tehnologija u proizvodnoj hali", alt: "Radnica u kapi i pregači u svijetloj prehrambenoj proizvodnoj hali", tone: "linen", focal: [50, 45] },
   "job-laborant": { brief: "Laborant za mikroskopom", alt: "Laborantica u zaštitnoj odjeći za mikroskopom u laboratoriju", tone: "linen", focal: [50, 45] },

@@ -289,19 +289,19 @@
   },
   "job-prodavac": {
     "w": 1600,
-    "h": 1067,
+    "h": 2400,
     "widths": [
       640,
       960,
       1280,
       1600
     ],
-    "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASoYABAAPu1krU2ppaSiMAgBMB2JQBdgDSd1+Ad6S/+OabyXiAD++Z0WO94waSW69YrtM/sbJ/nt/sJYuATYPDY2tfg1MoRwdOsfjuJ0Qulo1Bv7P+qxDMQAAAA=",
+    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBgCdASoYACQAPu1mrE8ppaQiJW5hMB2JaACdMssP/Ej2lUq/OJoG1sLPI43/sxQfQmZYRVPf4ZS6wAD+0mVKXPLMYxKIjj5XXmlwEFV8QOvhYEQq59pzke8NZDZIHmys+pKT9i9Y4GNS+MG6jlRLDljtT2UiMGK7E7ExKHLSaus0VqgrmAssW0doPN9oHWYFTnwh8WE+YUnBFrdDAoRg+8UN8+pJmVTewwWwmtRM9VUMBKFA18BdYQnAqWVHyoAAAA==",
     "credit": "Pexels",
     "temporary": true,
-    "source": "https://www.pexels.com/photo/7447285/",
+    "source": "https://www.pexels.com/photo/6205769/",
     "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 7447285
+    "pexelsId": 6205769
   },
   "job-tehnolog": {
     "w": 1600,
