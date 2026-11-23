@@ -21,8 +21,8 @@ export const MASTER_DURATION = 28.875;
 
 /** Fraction of hero scroll spent on the opening frame and on the final held frame. */
 const HOLD_START = 0.03;
-/** The finished loaf + headline + CTA stay pinned for this share before the hero releases. */
-const HOLD_END = 0.17;
+/** Short final hold: the loaf + CTA land, then the page continues right away (client, 23. 11. 2026). */
+const HOLD_END = 0.025;
 
 /** Relative scroll cost per second of video. >1 = the visitor scrolls further for that stretch. */
 const SPEED: [from: number, to: number, weight: number][] = [
@@ -35,7 +35,7 @@ const SPEED: [from: number, to: number, weight: number][] = [
   [18.83, 20.1, 2.6], // kneading hands (the source take is only ~1.3 s)
   [20.1, 24.4, 1],
   [24.4, 26.2, 1.3], // dwell: the loaf emerges from the flour cloud
-  [26.2, MASTER_DURATION, 1],
+  [26.2, MASTER_DURATION, 0.75], // steam settles — keep it short so the page flows on
 ];
 
 const totalWeight = SPEED.reduce((a, [f, t, w]) => a + (t - f) * w, 0);

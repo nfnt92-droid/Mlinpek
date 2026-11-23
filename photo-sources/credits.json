@@ -685,5 +685,47 @@
     "temporary": false,
     "source": "Dostavio naručitelj (20. 11. 2026): Mlinpek_Premium_Flour_Still_Life.png",
     "license": "Materijal naručitelja"
+  },
+  "job-prodavac": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/7447285/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 7447285
+  },
+  "job-pekar": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/36445212/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 36445212
+  },
+  "job-tehnolog": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/5953714/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 5953714
+  },
+  "job-laborant": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/8442574/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 8442574
+  },
+  "job-mlinar": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/2965707/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 2965707
+  },
+  "job-vozac": {
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/4391486/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 4391486
   }
 }

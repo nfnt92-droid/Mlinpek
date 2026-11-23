@@ -62,6 +62,7 @@ export const NAV: NavItem[] = [
   { href: "/o-nama/", label: "O nama" },
   { href: "/proizvodi/", label: "Proizvodi" },
   { href: "/nase-pekare/", label: "Naše pekare" },
+  { href: "/zaposljavanje/", label: "Zapošljavanje" },
   { href: "/kontakt/", label: "Kontakt" },
 ];
 

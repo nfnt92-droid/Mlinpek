@@ -127,6 +127,14 @@ export const PHOTOS = {
   "sandwich-1": { brief: "Sendvič u svježem pecivu sa šunkom i zelenom salatom", alt: "Sendvič u svježem pecivu sa šunkom i zelenom salatom", tone: "crust", focal: [50, 50] },
   "sandwich-2": { brief: "Sendvič u pecivu sa šunkom, sirom i salatom", alt: "Sendvič u pecivu sa šunkom, sirom i salatom", tone: "crust", focal: [50, 50] },
 
+  // ── careers: one photo per kind of work (temporary Pexels, 23. 11. 2026)
+  "job-prodavac": { brief: "Prodavač za pultom pekare", alt: "Prodavač u pekari pruža vrećicu s pecivom preko vitrine", tone: "linen", focal: [58, 40] },
+  "job-pekar": { brief: "Pekar oblikuje tijesto", alt: "Pekar oblikuje tijesto za baguette, ispred njega pečena peciva", tone: "linen", focal: [50, 45] },
+  "job-tehnolog": { brief: "Tehnologija u proizvodnoj hali", alt: "Radnica u kapi i pregači u svijetloj prehrambenoj proizvodnoj hali", tone: "linen", focal: [50, 45] },
+  "job-laborant": { brief: "Laborant za mikroskopom", alt: "Laborantica u zaštitnoj odjeći za mikroskopom u laboratoriju", tone: "linen", focal: [50, 45] },
+  "job-mlinar": { brief: "Prijem zrna u mlinu", alt: "Istovar zrna u prijemni koš uz silos", tone: "linen", focal: [45, 72] },
+  "job-vozac": { brief: "Vozač i dostavno vozilo", alt: "Vozač utovaruje kutije u dostavno vozilo", tone: "linen", focal: [50, 45] },
+
   // ── people / business (temporary Pexels, 20. 11. 2026)
   "people-handshake-office": { brief: "Rukovanje — dobrodošlica novom kolegi", alt: "Dvije osobe se rukuju preko stola u svijetlom uredu", tone: "linen", focal: [50, 45] },
   "people-handshake-deal": { brief: "Poslovno rukovanje, dogovor", alt: "Poslovno rukovanje iznad stola s dokumentima", tone: "linen", focal: [55, 50] },

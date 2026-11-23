@@ -38,11 +38,6 @@ export function SiteFooter() {
                   </Link>
                 </li>
               ))}
-              <li>
-                <Link href="/zaposljavanje/" className={`block py-2 text-ivory/75 ${link}`}>
-                  Zapošljavanje
-                </Link>
-              </li>
             </ul>
           </nav>
         </div>

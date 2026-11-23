@@ -75,13 +75,13 @@ export function SiteHeader() {
             />
           </Link>
           <nav aria-label="Glavna navigacija">
-            <ul className="hidden items-center gap-8 lg:flex">
+            <ul className="hidden items-center gap-6 lg:flex xl:gap-8">
               {NAV.map((item) => (
                 <li key={item.href}>
                   <Link
                     href={item.href}
                     aria-current={isActive(item.href) ? "page" : undefined}
-                    className={`text-[12px] uppercase tracking-[0.22em] transition-colors duration-300 ${text} ${
+                    className={`text-[12px] uppercase tracking-[0.16em] transition-colors duration-300 xl:tracking-[0.22em] ${text} ${
                       isActive(item.href)
                         ? `underline underline-offset-[8px] ${light ? "decoration-ivory/50" : "decoration-wheat-deep"}`
                         : `${light ? "opacity-75" : "opacity-70"} hover:opacity-100`

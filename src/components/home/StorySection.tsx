@@ -8,7 +8,7 @@ export function StorySection() {
     <section aria-labelledby="prica-title" className="relative overflow-hidden bg-paper text-charcoal">
       {/* the mill, drawn like on the new flour packaging — quiet background line art */}
       <div aria-hidden="true" className="pointer-events-none absolute inset-x-0 bottom-0 flex justify-center">
-        <MillIllustration className="w-[max(100%,900px)] max-w-[1600px] shrink-0 text-wheat-deep opacity-[0.18]" />
+        <MillIllustration className="w-[max(100%,900px)] max-w-[1600px] shrink-0 text-wheat-deep opacity-[0.16]" />
       </div>
       <div className="wrap section relative grid gap-14 md:grid-cols-12 md:items-center md:gap-8">
         <div className="md:col-span-6">

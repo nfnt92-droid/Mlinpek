@@ -239,6 +239,102 @@
     "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 11726089
   },
+  "job-laborant": {
+    "w": 1600,
+    "h": 1068,
+    "widths": [
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYABAAPu1orU6ppiSiMAgBMB2JZQC7ACIjISIhtB2eq/tQAAD+4SKmg+Vw6mR5NbffC07nEtshoYkW8orXsF9BBZ4cMd9K0+9ecXgdTCqo4+AA",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/8442574/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 8442574
+  },
+  "job-mlinar": {
+    "w": 1600,
+    "h": 2653,
+    "widths": [
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBgCdASoYACgAPu1eq02ppSQiNVQMATAdiUAToA0fRyvkUfW7snofI6nEW6uT6iq2GuyjDEeTdVUlgAD3K6jgqxZHsKd7MXszr+JC0KWxe/Sn9fnu+d3oxenSy6yHkcaq91rXddNR/EelZ6BudAuxArADyAKr/Ue1K80GLE5uZMfbYPz8+6CmIYDm7/3a7KXXL+7fl7TMC9xDctEi9TcR7wAAAA==",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/2965707/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 2965707
+  },
+  "job-pekar": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYABAAPu1orU6ppiSiMAgBMB2JZACdABm2TisD+k9lRcAAAP7jTT+ExWm+xIjjHwqJKLqhsQ6d6VHKZrZKb+1MKzIC/de3MqQ0RWsyT70Zv9egAAA=",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/36445212/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 36445212
+  },
+  "job-prodavac": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASoYABAAPu1krU2ppaSiMAgBMB2JQBdgDSd1+Ad6S/+OabyXiAD++Z0WO94waSW69YrtM/sbJ/nt/sJYuATYPDY2tfg1MoRwdOsfjuJ0Qulo1Bv7P+qxDMQAAAA=",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/7447285/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 7447285
+  },
+  "job-tehnolog": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwBACdASoYABAAPu1kq04ppaQiMAgBMB2JZQDG9B6WiLnhYL1f/8Bh8gAA/sPxEEbpR9oy7rjJ6AdulS0PAV6DjDyex7MTYfQqp2iAAAA=",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/5953714/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 5953714
+  },
+  "job-vozac": {
+    "w": 1600,
+    "h": 1067,
+    "widths": [
+      640,
+      960,
+      1280,
+      1600
+    ],
+    "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JZQC7AB88rnW2j/LUQ+eAAP7na/x3F5Iel+PdSG1CWpz8Y5zfEhmYSd3QqMgJZha7NMOJxYwrjK0YOZlktAgQGPHHk5Tl9F7COmKoAAA=",
+    "credit": "Pexels",
+    "temporary": true,
+    "source": "https://www.pexels.com/photo/4391486/",
+    "license": "Pexels License — https://www.pexels.com/license/",
+    "pexelsId": 4391486
+  },
   "manifest-grain": {
     "w": 1920,
     "h": 1280,

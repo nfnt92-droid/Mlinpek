@@ -1,11 +1,13 @@
 import Link from "next/link";
-import { RoleIllustration, type RoleId } from "@/components/ui/Illustrations";
+import { Photo } from "@/components/ui/Photo";
+import type { PhotoId } from "@/content/photos";
 import { FormDownloads } from "./FormDownloads";
 
 /**
- * Careers block (client brief 18. 11. 2026: "zaseban odjeljak sa ilustracijama prodavača, tehnologa,
- * laboranta i sl."). The roles show the kinds of work in the company — they are not job openings.
+ * Careers block: one photograph per kind of work (client, 23. 11. 2026: real photos instead of icons;
+ * temporary Pexels photos until Mlinpek's own). The roles show the kinds of work — not job openings.
  */
+type RoleId = "prodavac" | "pekar" | "tehnolog" | "laborant" | "mlinar" | "vozac";
 export const ROLES: { id: RoleId; label: string; text: string }[] = [
   { id: "prodavac", label: "Prodavač / prodavačica", text: "Za pultom naših pekara, s kupcima od ranog jutra." },
   { id: "pekar", label: "Pekar", text: "Tijesto, oblikovanje i peć u našoj pekarskoj proizvodnji." },
@@ -34,12 +36,12 @@ export function CareersSection({ id = "zaposljavanje", compact = false }: { id?:
           </div>
         </div>
 
-        <ul className={`grid grid-cols-2 gap-px bg-ivory/10 sm:grid-cols-3 ${compact ? "mt-12" : "mt-16 md:mt-20"} lg:grid-cols-6`}>
+        <ul className={`grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 ${compact ? "mt-12" : "mt-16 md:mt-20"}`}>
           {ROLES.map((r) => (
-            <li key={r.id} className="flex flex-col bg-ink p-5 sm:p-6" data-reveal>
-              <RoleIllustration role={r.id} className="h-24 w-24 text-wheat sm:h-28 sm:w-28" />
-              <p className="mt-5 font-display text-[1.25rem] leading-tight">{r.label}</p>
-              <p className="mt-2 text-[13px] leading-relaxed text-ivory/55">{r.text}</p>
+            <li key={r.id} data-reveal>
+              <Photo id={`job-${r.id}` as PhotoId} ratio="aspect-[4/3]" sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw" />
+              <p className="mt-5 font-display text-[1.5rem] leading-tight">{r.label}</p>
+              <p className="mt-2 text-sm leading-relaxed text-ivory/60">{r.text}</p>
             </li>
           ))}
         </ul>

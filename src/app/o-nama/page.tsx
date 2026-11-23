@@ -179,7 +179,7 @@ export default function ONamaPage() {
             ))}
           </ul>
           <div aria-hidden="true" className="mt-16 flex justify-center overflow-hidden md:mt-24">
-            <MillIllustration className="w-[max(100%,760px)] max-w-[1100px] shrink-0 text-wheat-deep opacity-40" />
+            <MillIllustration className="w-[max(100%,760px)] max-w-[1100px] shrink-0 text-wheat-deep opacity-50" />
           </div>
         </div>
       </Section>
