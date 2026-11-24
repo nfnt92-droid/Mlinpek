@@ -5,16 +5,16 @@ import { FormDownloads } from "./FormDownloads";
 
 /**
  * Careers block: one photograph per kind of work (client, 23. 11. 2026: real photos instead of icons;
- * temporary Pexels photos until Mlinpek's own). The roles show the kinds of work — not job openings.
+ * 24. 11. 2026: photos supplied by the client). The roles show the kinds of work — not job openings.
  */
-type RoleId = "prodavacica-2" | "pekar" | "tehnolog" | "laborant" | "mlinar" | "vozac"; // photo id = job-<RoleId>; a new photo gets a new id (photos are cached for 30 days)
+type RoleId = "prodavacica-2" | "pekar-2" | "tehnolog-2" | "laborant-2" | "mlinar-2" | "vozac-2"; // photo id = job-<RoleId>; a new photo gets a new id (photos are cached for 30 days)
 export const ROLES: { id: RoleId; label: string; text: string }[] = [
   { id: "prodavacica-2", label: "Prodavač / prodavačica", text: "Za pultom naših pekara, s kupcima od ranog jutra." },
-  { id: "pekar", label: "Pekar", text: "Tijesto, oblikovanje i peć u našoj pekarskoj proizvodnji." },
-  { id: "tehnolog", label: "Tehnolog", text: "Recepture, procesi i ujednačena kvaliteta proizvoda." },
-  { id: "laborant", label: "Laborant", text: "Kontrola zrna, brašna i gotovih proizvoda." },
-  { id: "mlinar", label: "Mlinar", text: "Prijem i čišćenje zrna, mljevenje i pakiranje brašna." },
-  { id: "vozac", label: "Vozač", text: "Dostava do naših pekara i poslovnih partnera." },
+  { id: "pekar-2", label: "Pekar", text: "Tijesto, oblikovanje i peć u našoj pekarskoj proizvodnji." },
+  { id: "tehnolog-2", label: "Tehnolog", text: "Recepture, procesi i ujednačena kvaliteta proizvoda." },
+  { id: "laborant-2", label: "Laborant", text: "Kontrola zrna, brašna i gotovih proizvoda." },
+  { id: "mlinar-2", label: "Mlinar", text: "Prijem i čišćenje zrna, mljevenje i pakiranje brašna." },
+  { id: "vozac-2", label: "Vozač", text: "Dostava do naših pekara i poslovnih partnera." },
 ];
 
 export function CareersSection({ id = "zaposljavanje", compact = false }: { id?: string; compact?: boolean }) {

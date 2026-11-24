@@ -686,45 +686,40 @@
     "source": "Dostavio naručitelj (20. 11. 2026): Mlinpek_Premium_Flour_Still_Life.png",
     "license": "Materijal naručitelja"
   },
-  "job-pekar": {
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/36445212/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 36445212
-  },
-  "job-tehnolog": {
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/5953714/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 5953714
-  },
-  "job-laborant": {
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/8442574/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 8442574
-  },
-  "job-mlinar": {
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/2965707/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 2965707
-  },
-  "job-vozac": {
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/4391486/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 4391486
-  },
   "job-prodavacica-2": {
     "credit": "Shutterstock",
     "temporary": false,
     "source": "Dostavio naručitelj (24. 11. 2026): 607daae140ca3baf25433bcb_shutterstock_1587977659-min-scaled.jpeg — Shutterstock 1587977659",
     "license": "Shutterstock — licencu treba osigurati naručitelj"
+  },
+  "job-vozac-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Voza_.png",
+    "license": "Materijal naručitelja"
+  },
+  "job-tehnolog-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Tehnolog.png",
+    "license": "Materijal naručitelja"
+  },
+  "job-mlinar-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Mlinar.png",
+    "license": "Materijal naručitelja"
+  },
+  "job-laborant-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Laborant.png",
+    "license": "Materijal naručitelja"
+  },
+  "job-pekar-2": {
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Pekar.png",
+    "license": "Materijal naručitelja"
   }
 }

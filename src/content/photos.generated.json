@@ -239,53 +239,50 @@
     "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 11726089
   },
-  "job-laborant": {
-    "w": 1600,
-    "h": 1068,
+  "job-laborant-2": {
+    "w": 1536,
+    "h": 1024,
     "widths": [
       640,
       960,
       1280,
-      1600
+      1536
     ],
-    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQBACdASoYABAAPu1orU6ppiSiMAgBMB2JZQC7ACIjISIhtB2eq/tQAAD+4SKmg+Vw6mR5NbffC07nEtshoYkW8orXsF9BBZ4cMd9K0+9ecXgdTCqo4+AA",
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/8442574/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 8442574
+    "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYABAAPu1kqk4ppaQiMAgBMB2JYwCdAAMlesBDmi8AAP7gm3nRkIGlTDUuXN55i2yjujSmIvHKMjVjpLAwQgL0V76x71rdAs3+v4AA",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Laborant.png",
+    "license": "Materijal naručitelja"
   },
-  "job-mlinar": {
-    "w": 1600,
-    "h": 2653,
+  "job-mlinar-2": {
+    "w": 1536,
+    "h": 1024,
     "widths": [
       640,
       960,
       1280,
-      1600
+      1536
     ],
-    "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBgCdASoYACgAPu1eq02ppSQiNVQMATAdiUAToA0fRyvkUfW7snofI6nEW6uT6iq2GuyjDEeTdVUlgAD3K6jgqxZHsKd7MXszr+JC0KWxe/Sn9fnu+d3oxenSy6yHkcaq91rXddNR/EelZ6BudAuxArADyAKr/Ue1K80GLE5uZMfbYPz8+6CmIYDm7/3a7KXXL+7fl7TMC9xDctEi9TcR7wAAAA==",
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/2965707/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 2965707
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoYABAAPu1kq04ppaQiMAgBMB2JQBOgAbSK+cpcEgVEAADLz4ITbR7npA/O5iTQ36uMJpJ0NlAnrervJ8axsvYVt85/za5n+ZMtl1arnP3kAAAA",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Mlinar.png",
+    "license": "Materijal naručitelja"
   },
-  "job-pekar": {
-    "w": 1600,
-    "h": 1067,
+  "job-pekar-2": {
+    "w": 1536,
+    "h": 1024,
     "widths": [
       640,
       960,
       1280,
-      1600
+      1536
     ],
-    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoYABAAPu1orU6ppiSiMAgBMB2JZACdABm2TisD+k9lRcAAAP7jTT+ExWm+xIjjHwqJKLqhsQ6d6VHKZrZKb+1MKzIC/de3MqQ0RWsyT70Zv9egAAA=",
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/36445212/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 36445212
+    "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOgAXyRTGmyg0gAAPQ7GViLpwUpaMmbV7M3djVcSUxT+uI3iMNbkWok5HsXXJmY2Wic/W/7dY2Dqjz25kkDrF6gEnGAAAA=",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Pekar.png",
+    "license": "Materijal naručitelja"
   },
   "job-prodavacica-2": {
     "w": 1920,
@@ -302,37 +299,35 @@
     "source": "Dostavio naručitelj (24. 11. 2026): 607daae140ca3baf25433bcb_shutterstock_1587977659-min-scaled.jpeg — Shutterstock 1587977659",
     "license": "Shutterstock — licencu treba osigurati naručitelj"
   },
-  "job-tehnolog": {
-    "w": 1600,
-    "h": 1067,
+  "job-tehnolog-2": {
+    "w": 1536,
+    "h": 1024,
     "widths": [
       640,
       960,
       1280,
-      1600
+      1536
     ],
-    "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwBACdASoYABAAPu1kq04ppaQiMAgBMB2JZQDG9B6WiLnhYL1f/8Bh8gAA/sPxEEbpR9oy7rjJ6AdulS0PAV6DjDyex7MTYfQqp2iAAAA=",
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/5953714/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 5953714
+    "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoYABAAPu1kqk4ppaQiMAgBMB2JYwCdAAvy6eNpeL9nuYAA/NdgFw8RnupZfbC5KelV5bduYOt7jQfEy0OYP5tdMQLoAnXtrlPzvIc46FDQAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Tehnolog.png",
+    "license": "Materijal naručitelja"
   },
-  "job-vozac": {
-    "w": 1600,
-    "h": 1067,
+  "job-vozac-2": {
+    "w": 1536,
+    "h": 1024,
     "widths": [
       640,
       960,
       1280,
-      1600
+      1536
     ],
-    "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JZQC7AB88rnW2j/LUQ+eAAP7na/x3F5Iel+PdSG1CWpz8Y5zfEhmYSd3QqMgJZha7NMOJxYwrjK0YOZlktAgQGPHHk5Tl9F7COmKoAAA=",
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/4391486/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 4391486
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQBACdASoYABAAPu1mq04ppaQiMAgBMB2JZQCdABufDGra1lWy0vHEKRAAAP7sumI4PffPIve+kgeyX4JO4HF6WqmBfJKKuStJ8/5LAMvKcALQ0wZWJlb8pTXAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): Voza_.png",
+    "license": "Materijal naručitelja"
   },
   "manifest-grain": {
     "w": 1920,

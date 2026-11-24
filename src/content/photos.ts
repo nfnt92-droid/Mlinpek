@@ -129,11 +129,11 @@ export const PHOTOS = {
 
   // ── careers: one photo per kind of work (temporary Pexels, 23. 11. 2026)
   "job-prodavacica-2": { brief: "Prodavačica u pekari s košarom kruha", alt: "Nasmiješena prodavačica u pregači drži košaru kruha ispred vitrina pekare", tone: "crust", focal: [62, 42] },
-  "job-pekar": { brief: "Pekar oblikuje tijesto", alt: "Pekar oblikuje tijesto za baguette, ispred njega pečena peciva", tone: "linen", focal: [50, 45] },
-  "job-tehnolog": { brief: "Tehnologija u proizvodnoj hali", alt: "Radnica u kapi i pregači u svijetloj prehrambenoj proizvodnoj hali", tone: "linen", focal: [50, 45] },
-  "job-laborant": { brief: "Laborant za mikroskopom", alt: "Laborantica u zaštitnoj odjeći za mikroskopom u laboratoriju", tone: "linen", focal: [50, 45] },
-  "job-mlinar": { brief: "Prijem zrna u mlinu", alt: "Istovar zrna u prijemni koš uz silos", tone: "linen", focal: [45, 72] },
-  "job-vozac": { brief: "Vozač i dostavno vozilo", alt: "Vozač utovaruje kutije u dostavno vozilo", tone: "linen", focal: [50, 45] },
+  "job-pekar-2": { brief: "Pekar mijesi tijesto", alt: "Nasmiješeni pekar u pregači mijesi tijesto, iza njega kolica s pecivom i peći", tone: "crust", focal: [45, 45] },
+  "job-tehnolog-2": { brief: "Tehnologinja u proizvodnji", alt: "Nasmiješena tehnologinja u bijeloj kuti i kapici s registratorom pored spremnika od nehrđajućeg čelika", tone: "crust", focal: [42, 40] },
+  "job-laborant-2": { brief: "Laborantica u laboratoriju", alt: "Nasmiješena laborantica u kuti i rukavicama uz mikroskop, epruvete i uzorke zrna i brašna", tone: "crust", focal: [35, 42] },
+  "job-mlinar-2": { brief: "Mlinar u mlinu", alt: "Nasmiješeni mlinar u radnoj odjeći u mlinu, uz silose, vreće brašna i stroj s brašnom", tone: "crust", focal: [45, 42] },
+  "job-vozac-2": { brief: "Vozač u kabini kamiona", alt: "Nasmiješeni vozač u radnoj jakni za upravljačem kamiona, iza njega skladište s paletama", tone: "crust", focal: [30, 40] },
 
   // ── people / business (temporary Pexels, 20. 11. 2026)
   "people-handshake-office": { brief: "Rukovanje — dobrodošlica novom kolegi", alt: "Dvije osobe se rukuju preko stola u svijetlom uredu", tone: "linen", focal: [50, 45] },
