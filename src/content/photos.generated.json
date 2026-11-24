@@ -287,21 +287,20 @@
     "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 36445212
   },
-  "job-prodavacica": {
-    "w": 1600,
-    "h": 2400,
+  "job-prodavacica-2": {
+    "w": 1920,
+    "h": 1280,
     "widths": [
       640,
       960,
       1280,
-      1600
+      1920
     ],
-    "blur": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBgCdASoYACQAPu1mrE8ppaQiJW5hMB2JaACdMssP/Ej2lUq/OJoG1sLPI43/sxQfQmZYRVPf4ZS6wAD+0mVKXPLMYxKIjj5XXmlwEFV8QOvhYEQq59pzke8NZDZIHmys+pKT9i9Y4GNS+MG6jlRLDljtT2UiMGK7E7ExKHLSaus0VqgrmAssW0doPN9oHWYFTnwh8WE+YUnBFrdDAoRg+8UN8+pJmVTewwWwmtRM9VUMBKFA18BdYQnAqWVHyoAAAA==",
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/6205769/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 6205769
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOmUABLIanzw2ZUXy6AAP7AMh2dBMqp3iOkBO73i/Y6x31qJ5CjnBWb4I3RGQK06xjPoEgM4PeGDleRQJwj+oAAAA==",
+    "credit": "Shutterstock",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): 607daae140ca3baf25433bcb_shutterstock_1587977659-min-scaled.jpeg — Shutterstock 1587977659",
+    "license": "Shutterstock — licencu treba osigurati naručitelj"
   },
   "job-tehnolog": {
     "w": 1600,

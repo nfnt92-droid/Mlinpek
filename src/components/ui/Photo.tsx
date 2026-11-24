@@ -67,11 +67,6 @@ export function Photo({ id, ratio, fill, sizes = "100vw", priority, className = 
             style={{ ["--fp" as string]: focal, ["--fpm" as string]: focalMobile, backgroundImage: done.blur ? `url(${done.blur})` : undefined, backgroundSize: "cover" }}
           />
         </div>
-        {done.temporary && (
-          <figcaption className={`pointer-events-none absolute ${labelAt === "top" ? "right-3 top-20" : "bottom-3 left-3"} max-w-[calc(100%-1.5rem)] truncate bg-ink/45 px-2 py-1 text-[10px] tracking-wide text-ivory/75 backdrop-blur-sm`}>
-            Privremena fotografija{done.credit ? ` · ${done.credit}` : ""}
-          </figcaption>
-        )}
       </figure>
     );
   }

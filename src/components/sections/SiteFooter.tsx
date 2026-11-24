@@ -126,7 +126,7 @@ export function SiteFooter() {
               ))}
             </ul>
           )}
-          <p>Dio fotografija: privremene, Pexels</p>
+          <p>Dio fotografija: Pexels</p>
         </div>
       </div>
     </footer>

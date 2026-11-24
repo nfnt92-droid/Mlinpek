@@ -721,11 +721,10 @@
     "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 4391486
   },
-  "job-prodavacica": {
-    "credit": "Pexels",
-    "temporary": true,
-    "source": "https://www.pexels.com/photo/6205769/",
-    "license": "Pexels License — https://www.pexels.com/license/",
-    "pexelsId": 6205769
+  "job-prodavacica-2": {
+    "credit": "Shutterstock",
+    "temporary": false,
+    "source": "Dostavio naručitelj (24. 11. 2026): 607daae140ca3baf25433bcb_shutterstock_1587977659-min-scaled.jpeg — Shutterstock 1587977659",
+    "license": "Shutterstock — licencu treba osigurati naručitelj"
   }
 }
