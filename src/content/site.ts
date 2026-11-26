@@ -41,7 +41,7 @@ export const SITE = {
   },
   /** Official profiles only — shown as icon buttons in the footer once filled, e.g.
    *  { label: "Instagram", href: "https://www.instagram.com/…/" }, { label: "Facebook", href: "https://www.facebook.com/…/" } */
-  social: [] as { label: "Instagram" | "Facebook"; href: string }[],
+  social: [{ label: "Instagram", href: "https://www.instagram.com/mlinpek_bugojno/" }] as { label: "Instagram" | "Facebook"; href: string }[],
   legal: [
     // add real documents when available, e.g. { label: "Pravila privatnosti", href: "/privatnost/" }
   ] as { label: string; href: string }[],
