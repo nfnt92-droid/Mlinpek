@@ -33,7 +33,7 @@ export default function PekarePage() {
           </>
         }
         lede={<p>Kruh iz naše proizvodnje ne putuje daleko. U našim pekarama dočekuje vas od ranog jutra.</p>}
-        photo="store-mlinpek-2"
+        photo="store-exterior-mlinpek"
       />
       {/* the shops as the showcase of everything Mlinpek makes */}
       <Section tone="paper" labelledBy="izlog-title" className="!pt-0">
@@ -63,15 +63,12 @@ export default function PekarePage() {
         <ul className="mt-16 grid grid-cols-2 gap-2 sm:gap-3 md:mt-24 md:grid-cols-12">
           {(
             [
-              ["store-exterior-mlinpek", "col-span-2 aspect-[4/3] md:col-span-12 md:aspect-[3/2]"],
-              ["store-counter-mlinpek", "col-span-2 aspect-[4/3] md:col-span-7 md:aspect-[7/5]"],
-              ["store-mlinpek-1", "col-span-2 aspect-[4/3] md:col-span-5 md:aspect-auto"],
-              ["store-cafe-mlinpek", "aspect-[4/5] md:col-span-6 md:aspect-[3/2]"],
-              ["store-mlinpek-3", "aspect-[4/5] md:col-span-6 md:aspect-[3/2]"],
+              ["store-counter-mlinpek", "col-span-2 aspect-[4/3] md:col-span-6 md:aspect-[3/2]"],
+              ["store-cafe-mlinpek", "col-span-2 aspect-[4/3] md:col-span-6 md:aspect-[3/2]"],
             ] as [PhotoId, string][]
           ).map(([id, cls]) => (
             <li key={id} className={`relative ${cls}`}>
-              <Photo id={id} fill sizes={id === "store-exterior-mlinpek" ? "100vw" : "(min-width: 768px) 55vw, 100vw"} />
+              <Photo id={id} fill sizes="(min-width: 768px) 50vw, 100vw" />
             </li>
           ))}
         </ul>

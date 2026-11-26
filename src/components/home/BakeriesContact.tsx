@@ -9,7 +9,7 @@ export function BakeriesContact() {
     <section aria-labelledby="pekare-title" className="bg-ivory text-charcoal">
       <div className="wrap section grid gap-12 md:grid-cols-12 md:items-center md:gap-8">
         <div className="md:col-span-7">
-          <Photo id="store-mlinpek-1" ratio="aspect-[4/3] md:aspect-[5/4]" sizes="(min-width: 768px) 58vw, 100vw" reveal />
+          <Photo id="store-counter-mlinpek" ratio="aspect-[4/3] md:aspect-[5/4]" sizes="(min-width: 768px) 58vw, 100vw" reveal />
         </div>
         <div className="md:col-span-4 md:col-start-9" data-reveal-group>
           <Eyebrow>Naše pekare</Eyebrow>
