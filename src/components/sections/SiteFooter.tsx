@@ -28,6 +28,23 @@ export function SiteFooter() {
             <Logo className="w-[190px] md:w-[230px]" />
             <p className="mt-8 font-display text-2xl italic text-ivory/80">Od zrna do kruha.</p>
             <p className="mt-3 max-w-[30ch] text-sm leading-relaxed text-ivory/55">Mlin, pekarska proizvodnja i pekare — jedna priča.</p>
+            {SITE.social.length > 0 && (
+              <ul className="mt-8 flex gap-3" aria-label="Društvene mreže">
+                {SITE.social.map((s) => (
+                  <li key={s.href}>
+                    <a
+                      href={s.href}
+                      target="_blank"
+                      rel="noopener"
+                      aria-label={`Mlinpek na mreži ${s.label}`}
+                      className="flex h-11 w-11 items-center justify-center rounded-full border border-ivory/25 text-ivory/80 transition-colors hover:border-wheat hover:text-wheat"
+                    >
+                      <SocialIcon name={s.label} />
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            )}
           </div>
           <nav aria-label="Podnožje" className="md:col-span-3 md:col-start-7">
             <ul>
@@ -135,5 +152,19 @@ export function SiteFooter() {
         </div>
       </div>
     </footer>
+  );
+}
+
+function SocialIcon({ name }: { name: "Instagram" | "Facebook" }) {
+  return name === "Instagram" ? (
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true">
+      <rect x="3" y="3" width="18" height="18" rx="5" />
+      <circle cx="12" cy="12" r="4.2" />
+      <circle cx="17.3" cy="6.7" r="1" fill="currentColor" stroke="none" />
+    </svg>
+  ) : (
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+      <path d="M13.5 21v-7.5h2.5l.4-3h-2.9V8.6c0-.9.3-1.5 1.5-1.5h1.5V4.4c-.3 0-1.2-.1-2.2-.1-2.2 0-3.7 1.3-3.7 3.8v2.4H8.1v3h2.5V21h2.9Z" />
+    </svg>
   );
 }
