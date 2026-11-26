@@ -346,6 +346,21 @@
     "license": "Pexels License — https://www.pexels.com/license/",
     "pexelsId": 6412600
   },
+  "manifest-wheat": {
+    "w": 1672,
+    "h": 941,
+    "widths": [
+      640,
+      960,
+      1280,
+      1672
+    ],
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoYAA0APu1kqk4ppaQiMAgBMB2JaACdMoACrB3m8Sf0a90AAMyFLm89Bmo9K+faKJgDkDXEjsFQf2s5YR0Bvc5JHnVEp1a/lDmtEW2W2kjAAAAA",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (26. 11. 2026): wheat_2.png",
+    "license": "Materijal naručitelja"
+  },
   "mill-painting": {
     "w": 1920,
     "h": 1280,

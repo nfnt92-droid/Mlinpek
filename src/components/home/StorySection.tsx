@@ -26,7 +26,7 @@ export function StorySection() {
           </div>
         </div>
         <div className="md:col-span-5 md:col-start-8">
-          <Photo id="manifest-grain" ratio="aspect-[4/5]" sizes="(min-width: 768px) 40vw, 100vw" reveal />
+          <Photo id="manifest-wheat" ratio="aspect-[4/5]" sizes="(min-width: 768px) 40vw, 100vw" reveal />
         </div>
       </div>
     </section>

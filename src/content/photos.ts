@@ -26,6 +26,7 @@ export interface PhotoSlot {
 
 export const PHOTOS = {
   // ── homepage / manifest
+  "manifest-wheat": { brief: "Zlatni klas pšenice na tamnoj pozadini sa svjetlom", alt: "Zlatni klas pšenice izbliza na tamnoj pozadini, obasjan toplim svjetlom", tone: "crust", focal: [66, 50] },
   "manifest-grain": { brief: "Zrno pšenice na dlanu, bočno jutarnje svjetlo", alt: "Ruke drže zrele klasove pšenice u polju, toplo popodnevno svjetlo", tone: "wheat", focal: [50, 55] },
 
   // ── mill
