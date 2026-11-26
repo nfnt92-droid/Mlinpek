@@ -126,7 +126,12 @@ export function SiteFooter() {
               ))}
             </ul>
           )}
-          <p>Dio fotografija: Pexels</p>
+          <p>
+            Designed by{" "}
+            <a href="https://www.clickhouse.ba" target="_blank" rel="noopener" className="text-ivory/70 underline decoration-wheat/50 underline-offset-4 transition-colors hover:text-wheat">
+              Click House
+            </a>
+          </p>
         </div>
       </div>
     </footer>
