@@ -156,9 +156,10 @@ export const PHOTOS = {
   "prod-rolls-2": { brief: "Kajzerice izbliza", alt: "Zlatne kajzerice iz peći, izbliza", tone: "crust", focal: [50, 50] },
   "prod-dough": { brief: "Oblikovano tijesto za baguette", alt: "Oblikovano tijesto za baguette na polici prije pečenja", tone: "flour", focal: [50, 50] },
   "prod-donuts": { brief: "Krofne", alt: "Krofne s preljevima i mrvicama u Mlinpekovoj pekari", tone: "crust", focal: [50, 50] },
+  "store-exterior-mlinpek": { brief: "Mlinpek pekara izvana", alt: "Pročelje Mlinpek pekare: žuto-crni izlog s logom, klupa i drvo ispred ulaza", tone: "crust", focal: [45, 55] },
+  "store-counter-mlinpek": { brief: "Mlinpek pekara: vitrine i police", alt: "Mlinpek pekara: tri vitrine s pecivima i kolačima, police s kruhom i peć, pult s natpisom Mlinpek Simbol kvalitete", tone: "crust", focal: [50, 55] },
+  "store-cafe-mlinpek": { brief: "Mlinpek pekara s mjestom za sjedenje", alt: "Mlinpek pekara: zeleni zid, hladnjaci s pićima, vitrine s pecivom i stolice za goste", tone: "crust", focal: [55, 55] },
   "store-mlinpek-3": { brief: "Mlinpek pekara: vitrina i pult", alt: "Mlinpek pekara: vitrine s kruhom i pecivima, pult s logom", tone: "crust", focal: [50, 50] },
-  "store-mlinpek-4": { brief: "Mlinpek pekara: dugi pult", alt: "Mlinpek pekara: dugi pult s vitrinama i policama za kruh", tone: "crust", focal: [50, 50] },
-  "store-mlinpek-5": { brief: "Mlinpek pekara: pult i sjedenje", alt: "Mlinpek pekara: pult s logom, vitrine i mjesto za sjedenje", tone: "crust", focal: [50, 50] },
 
   // ── flour (client, 18. 11. 2026): new packaging T-550 + campaign banner + decorative bowl
   "flour-550-1kg": { brief: "Brašno pšenično bijelo tip 550, 1 kg", alt: "Mlinpek brašno pšenično bijelo tip 550, pakiranje 1 kg, na kuhinjskom stolu", tone: "flour", focal: [50, 50] },

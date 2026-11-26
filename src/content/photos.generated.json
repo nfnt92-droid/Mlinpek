@@ -1690,6 +1690,51 @@
     "source": "Dostavio naručitelj 17. 11. 2026: Proizvodi (141).jpg",
     "license": "Materijal naručitelja"
   },
+  "store-cafe-mlinpek": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwBACdASoYABAAPu1kqU2ppaQiMAgBMB2JZgCdMoACoARUoY535mOo94AA/hXZK3W7ptD7qKLIFR5Gnv/Tyrlfuw55PTLq3Vudd6DzCFctZ2OJpjrbpXG7ROQuEmSbyGQECoeyoAA=",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (26. 11. 2026): Modern_Bakery_Caf__with_Green_Wall.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "store-counter-mlinpek": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQBACdASoYABAAPu1kq04ppaQiMAgBMB2JQBOmUABfiGDXc4/JIS+Ly0QAAPvcOoafoy8Ir9jQBd2AVprPL1tBw9q3pC1fy86OvSmiDtsa06mzQxyi8AAA",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (26. 11. 2026): fd292fb7-1f31-4fb1-a552-dcf58de4d952.jpg",
+    "license": "Materijal naručitelja"
+  },
+  "store-exterior-mlinpek": {
+    "w": 1920,
+    "h": 1280,
+    "widths": [
+      640,
+      960,
+      1280,
+      1920
+    ],
+    "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAwCdASoYABAAPu1mq04ppaQiMAgBMB2JYgC7ABOp40mTm34LAAD8VEqqf9E/1xjZWPM+Bz+U5Z7q8eOucxcG6LY+SG9YGDFKa5nQJRzTw+U5UuVJljVwCEMAAA==",
+    "credit": "Mlinpek",
+    "temporary": false,
+    "source": "Dostavio naručitelj (26. 11. 2026): Minpek_Bakery_Facade_in_Mostar.jpg",
+    "license": "Materijal naručitelja"
+  },
   "store-mlinpek-1": {
     "w": 1920,
     "h": 1347,
@@ -1733,32 +1778,6 @@
     "credit": "Mlinpek",
     "temporary": false,
     "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Pekara (1).jpg",
-    "license": "Materijal naručitelja"
-  },
-  "store-mlinpek-4": {
-    "w": 960,
-    "h": 540,
-    "widths": [
-      640,
-      960
-    ],
-    "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoYAA4APu1iqU2ppaOiMAgBMB2JQBYdgkF2W/HdAcV4WKAAyq8cDLMWe+0Ioch1aBtQmtW9+g57cpdeoLM4CxfxTOxsMTlCIDV0AA==",
-    "credit": "Mlinpek",
-    "temporary": false,
-    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Pekara 2.jpg",
-    "license": "Materijal naručitelja"
-  },
-  "store-mlinpek-5": {
-    "w": 960,
-    "h": 540,
-    "widths": [
-      640,
-      960
-    ],
-    "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQBACdASoYAA4APu1iqk2ppaQiMAgBMB2JYwCdMoADUelQplhGBtqfyAD+vIz07mTkwiWahaOnG5E3zts23c+MYeQq8ehNVDVtApsRa22ZF1oJ0W3uss2gAAA=",
-    "credit": "Mlinpek",
-    "temporary": false,
-    "source": "Dostavio naručitelj (mapa Mlinpek, 18. 11. 2026): Pekara.jpg",
     "license": "Materijal naručitelja"
   }
 }

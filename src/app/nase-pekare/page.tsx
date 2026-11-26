@@ -63,14 +63,15 @@ export default function PekarePage() {
         <ul className="mt-16 grid grid-cols-2 gap-2 sm:gap-3 md:mt-24 md:grid-cols-12">
           {(
             [
-              ["store-mlinpek-3", "col-span-2 aspect-[4/3] md:col-span-7 md:aspect-[7/5]"],
+              ["store-exterior-mlinpek", "col-span-2 aspect-[4/3] md:col-span-12 md:aspect-[3/2]"],
+              ["store-counter-mlinpek", "col-span-2 aspect-[4/3] md:col-span-7 md:aspect-[7/5]"],
               ["store-mlinpek-1", "col-span-2 aspect-[4/3] md:col-span-5 md:aspect-auto"],
-              ["store-mlinpek-4", "aspect-[4/5] md:col-span-6 md:aspect-[16/9]"],
-              ["store-mlinpek-5", "aspect-[4/5] md:col-span-6 md:aspect-[16/9]"],
+              ["store-cafe-mlinpek", "aspect-[4/5] md:col-span-6 md:aspect-[3/2]"],
+              ["store-mlinpek-3", "aspect-[4/5] md:col-span-6 md:aspect-[3/2]"],
             ] as [PhotoId, string][]
           ).map(([id, cls]) => (
             <li key={id} className={`relative ${cls}`}>
-              <Photo id={id} fill sizes="(min-width: 768px) 55vw, 100vw" />
+              <Photo id={id} fill sizes={id === "store-exterior-mlinpek" ? "100vw" : "(min-width: 768px) 55vw, 100vw"} />
             </li>
           ))}
         </ul>
